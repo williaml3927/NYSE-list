@@ -1,0 +1,43 @@
+name: Update Ticker Lists
+
+on:
+  schedule:
+    - cron: '0 1 * * 0'   # Every Sunday at 1am UTC (after market close week)
+  workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout NYSE-list Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install yfinance requests
+
+      - name: Run Ticker Update
+        run: python update_tickers.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+          git add "NYSE.json" "Other list.json"
+
+          # Only commit if files actually changed
+          git diff --staged --quiet && echo "No changes to ticker lists" && exit 0
+
+          git commit -m "Auto-update ticker lists — $(date -u '+%Y-%m-%d')"
+
+          git pull --rebase origin main
+
+          git push
