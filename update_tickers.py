@@ -65,22 +65,30 @@ def _is_junk_symbol(sym):
 
 
 def load_existing(filename):
-    """Load existing ticker list, return set of symbols."""
+    """Load existing ticker list, return dict of symbol → name."""
     if not os.path.exists(filename):
-        return set()
+        return {}
     try:
         with open(filename) as f:
             data = json.load(f)
-        return {item.get("Symbol", "").upper().strip()
-                for item in data if item.get("Symbol")}
+        return {
+            item.get("Symbol", "").upper().strip(): item.get("Name", "")
+            for item in data if item.get("Symbol")
+        }
     except Exception as e:
         print(f"  [WARN] Could not load {filename}: {e}")
-        return set()
+        return {}
 
 
-def save_list(filename, symbols):
-    """Save sorted list of symbols in standard format."""
-    data = [{"Symbol": s} for s in sorted(symbols)]
+def save_list(filename, symbol_name_dict):
+    """
+    Save sorted list of { Symbol, Name } entries.
+    symbol_name_dict: { "AAPL": "Apple Inc.", ... }
+    """
+    data = [
+        {"Symbol": s, "Name": n}
+        for s, n in sorted(symbol_name_dict.items())
+    ]
     with open(filename, "w") as f:
         json.dump(data, f, indent=2)
     print(f"  Saved {len(data)} tickers to {filename}")
@@ -117,7 +125,7 @@ def fetch_edgar_tickers():
                     exc = str(row[e_idx]).strip()
                     name = str(row[n_idx]).strip()
                     if sym and not _is_junk_symbol(sym):
-                        result[sym] = {"exchange": exc, "name": name}
+                        result[sym] = {"exchange": exc, "name": name.strip()}
                 except (IndexError, TypeError):
                     pass
             print(f"  EDGAR exchange list: {len(result)} tickers")
@@ -239,48 +247,46 @@ def main():
 
     # ── Step 1: Load existing lists ───────────────────────────────────────────
     print("[1] Loading existing ticker lists...")
-    existing_nyse  = load_existing(NYSE_FILE)
-    existing_other = load_existing(OTHER_FILE)
-    existing_all   = existing_nyse | existing_other
+    existing_nyse  = load_existing(NYSE_FILE)    # { symbol: name }
+    existing_other = load_existing(OTHER_FILE)   # { symbol: name }
+    existing_all   = {**existing_other, **existing_nyse}
     print(f"  Existing NYSE:  {len(existing_nyse)}")
     print(f"  Existing Other: {len(existing_other)}")
     print(f"  Total existing: {len(existing_all)}")
 
     # ── Step 2: Fetch fresh sources ───────────────────────────────────────────
     print("\n[2] Fetching fresh ticker sources...")
-    edgar   = fetch_edgar_tickers()
-    fmp     = fetch_fmp_tickers()
+    edgar = fetch_edgar_tickers()
+    fmp   = fetch_fmp_tickers()
 
-    # Merge all sources — EDGAR is authoritative
+    # Merge — EDGAR name wins over FMP
     all_fresh = {}
     for sym, data in fmp.items():
         all_fresh[sym] = data
-    for sym, data in edgar.items():   # EDGAR overwrites FMP
+    for sym, data in edgar.items():
         all_fresh[sym] = data
 
     print(f"  Total from all sources: {len(all_fresh)}")
 
-    # ── Step 3: Split into NYSE vs Other ──────────────────────────────────────
+    # ── Step 3: Split into NYSE vs Other — preserving names ───────────────────
     print("\n[3] Splitting by exchange...")
-    fresh_nyse  = set()
-    fresh_other = set()
+    fresh_nyse  = {}   # { symbol: name }
+    fresh_other = {}
+
     for sym, data in all_fresh.items():
-        exc = data.get("exchange", "")
+        exc  = data.get("exchange", "")
+        name = data.get("name", "").strip()
         if exc in NYSE_EXCHANGES:
-            fresh_nyse.add(sym)
-        elif exc in OTHER_EXCHANGES or exc:
-            fresh_other.add(sym)
+            fresh_nyse[sym] = name
         else:
-            fresh_other.add(sym)   # Unknown exchange → Other
+            fresh_other[sym] = name
 
     print(f"  Fresh NYSE:  {len(fresh_nyse)}")
     print(f"  Fresh Other: {len(fresh_other)}")
 
     # ── Step 4: Check for delisted tickers ───────────────────────────────────
     print("\n[4] Checking for delisted tickers...")
-    # Only check tickers that exist in current lists but NOT in any fresh source
-    # — these are the most likely to have been delisted
-    possibly_delisted = existing_all - set(all_fresh.keys())
+    possibly_delisted = set(existing_all.keys()) - set(all_fresh.keys())
     print(f"  {len(possibly_delisted)} tickers in existing lists not found in fresh sources")
 
     confirmed_delisted = set()
@@ -290,26 +296,40 @@ def main():
     else:
         print(f"  No candidates for delisting check")
 
-    # ── Step 5: Build final lists ─────────────────────────────────────────────
+    # ── Step 5: Build final dicts { symbol: name } ───────────────────────────
     print("\n[5] Building final lists...")
 
-    # NYSE: union of existing and fresh, minus confirmed delisted
-    final_nyse = (existing_nyse | fresh_nyse) - confirmed_delisted
+    def _merge(existing_dict, fresh_dict):
+        """Merge existing and fresh — fresh name wins if non-empty."""
+        merged = {}
+        for sym in set(existing_dict) | set(fresh_dict):
+            fresh_name    = fresh_dict.get(sym, "").strip()
+            existing_name = existing_dict.get(sym, "").strip()
+            merged[sym]   = fresh_name or existing_name or sym
+        return merged
 
-    # Other: union of existing and fresh, minus confirmed delisted
-    # Also remove anything promoted to NYSE
-    final_other = (existing_other | fresh_other) - confirmed_delisted - final_nyse
+    final_nyse  = _merge(existing_nyse,  fresh_nyse)
+    final_other = _merge(existing_other, fresh_other)
 
-    # Remove junk from both
-    final_nyse  = {s for s in final_nyse  if not _is_junk_symbol(s)}
-    final_other = {s for s in final_other if not _is_junk_symbol(s)}
+    # Remove confirmed delisted
+    for sym in confirmed_delisted:
+        final_nyse.pop(sym, None)
+        final_other.pop(sym, None)
 
-    new_nyse    = final_nyse  - existing_nyse
-    new_other   = final_other - existing_other
-    removed     = confirmed_delisted & existing_all
+    # Remove NYSE tickers from Other to avoid duplicates
+    for sym in final_nyse:
+        final_other.pop(sym, None)
 
-    print(f"  Final NYSE:  {len(final_nyse)}  (+{len(new_nyse)} new, -{len(removed & existing_nyse)} removed)")
-    print(f"  Final Other: {len(final_other)}  (+{len(new_other)} new, -{len(removed & existing_other)} removed)")
+    # Remove junk symbols
+    final_nyse  = {s: n for s, n in final_nyse.items()  if not _is_junk_symbol(s)}
+    final_other = {s: n for s, n in final_other.items() if not _is_junk_symbol(s)}
+
+    new_nyse  = set(final_nyse)  - set(existing_nyse)
+    new_other = set(final_other) - set(existing_other)
+    removed   = confirmed_delisted & set(existing_all)
+
+    print(f"  Final NYSE:  {len(final_nyse)}  (+{len(new_nyse)} new, -{len(removed & set(existing_nyse))} removed)")
+    print(f"  Final Other: {len(final_other)}  (+{len(new_other)} new, -{len(removed & set(existing_other))} removed)")
 
     if new_nyse:
         print(f"\n  New NYSE tickers: {sorted(new_nyse)[:20]}"
