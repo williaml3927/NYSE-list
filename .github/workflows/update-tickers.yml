@@ -5,6 +5,9 @@ on:
     - cron: '0 1 * * 0'   # Every Sunday at 1am UTC (after market close week)
   workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
 
+permissions:
+  contents: write   # allows the workflow to push commits back to the repo
+
 jobs:
   update:
     runs-on: ubuntu-latest
