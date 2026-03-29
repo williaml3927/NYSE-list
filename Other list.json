@@ -1248,6 +1248,10 @@
     "Name": "ALT5 Sigma Corp"
   },
   {
+    "Symbol": "ALTUF",
+    "Name": "Altura Energy Corp."
+  },
+  {
     "Symbol": "ALTX",
     "Name": "ALTEX INDUSTRIES INC"
   },
@@ -1314,6 +1318,10 @@
   {
     "Symbol": "AMDL",
     "Name": "AMDL"
+  },
+  {
+    "Symbol": "AMFN",
+    "Name": "Renewal Fuels, Inc."
   },
   {
     "Symbol": "AMGN",
@@ -1624,6 +1632,10 @@
     "Name": "Aptorum Group Ltd"
   },
   {
+    "Symbol": "APMC",
+    "Name": "AmperCap Acquisition Co"
+  },
+  {
     "Symbol": "APMCF",
     "Name": "MORIEN RESOURCES CORP."
   },
@@ -1662,6 +1674,10 @@
   {
     "Symbol": "APSI",
     "Name": "AQUA POWER SYSTEMS INC."
+  },
+  {
+    "Symbol": "APTN",
+    "Name": "ADAPTIN BIO, INC."
   },
   {
     "Symbol": "APTOF",
@@ -2156,10 +2172,6 @@
     "Name": "AU Gold Corp."
   },
   {
-    "Symbol": "AUGG",
-    "Name": "AUGUSTA GOLD CORP."
-  },
-  {
     "Symbol": "AUGO",
     "Name": "Aura Minerals Inc."
   },
@@ -2577,6 +2589,10 @@
   },
   {
     "Symbol": "BBBXD",
+    "Name": "Brixton Metals Corp"
+  },
+  {
+    "Symbol": "BBBXF",
     "Name": "Brixton Metals Corp"
   },
   {
@@ -6600,6 +6616,10 @@
     "Name": "DGCB"
   },
   {
+    "Symbol": "DGCOF",
+    "Name": "Daura Capital Corp."
+  },
+  {
     "Symbol": "DGEAF",
     "Name": "DIAGEO PLC"
   },
@@ -6793,7 +6813,7 @@
   },
   {
     "Symbol": "DMRA",
-    "Name": "Galecto, Inc."
+    "Name": "Damora Therapeutics, Inc."
   },
   {
     "Symbol": "DMRC",
@@ -7580,6 +7600,10 @@
     "Name": "Eastern International Ltd."
   },
   {
+    "Symbol": "ELOX",
+    "Name": "Eloxx Pharmaceuticals, Inc."
+  },
+  {
     "Symbol": "ELRE",
     "Name": "Yinfu Gold Corp."
   },
@@ -7609,6 +7633,10 @@
   },
   {
     "Symbol": "ELVG",
+    "Name": "Elvictor Group, Inc."
+  },
+  {
+    "Symbol": "ELVGD",
     "Name": "Elvictor Group, Inc."
   },
   {
@@ -8236,6 +8264,10 @@
     "Name": "EXUS"
   },
   {
+    "Symbol": "EXYN",
+    "Name": "Exyn Technologies, Inc."
+  },
+  {
     "Symbol": "EYE",
     "Name": "National Vision Holdings, Inc."
   },
@@ -8650,6 +8682,10 @@
   {
     "Symbol": "FFBC",
     "Name": "FIRST FINANCIAL BANCORP /OH/"
+  },
+  {
+    "Symbol": "FFGG",
+    "Name": "FF Global Holdings Ltd"
   },
   {
     "Symbol": "FFIC",
@@ -9217,7 +9253,7 @@
   },
   {
     "Symbol": "FNUC",
-    "Name": "Snow Lake Resources Ltd."
+    "Name": "Frontier Nuclear & Minerals Inc."
   },
   {
     "Symbol": "FNWB",
@@ -9436,6 +9472,10 @@
     "Name": "Foresight Autonomous Holdings Ltd."
   },
   {
+    "Symbol": "FRTJF",
+    "Name": "Fortis Inc."
+  },
+  {
     "Symbol": "FRTRY",
     "Name": "Fortior Technology (Shenzhen) Co., Ltd./ADR"
   },
@@ -9553,7 +9593,7 @@
   },
   {
     "Symbol": "FTEL",
-    "Name": "Fitell Corp"
+    "Name": "GMEX Robotics Corp"
   },
   {
     "Symbol": "FTFT",
@@ -10152,10 +10192,6 @@
     "Name": "Gafisa S.A."
   },
   {
-    "Symbol": "GFCHY",
-    "Name": "Georg Fischer AG/ADR"
-  },
-  {
     "Symbol": "GFGF",
     "Name": "GFGF"
   },
@@ -10258,6 +10294,10 @@
   {
     "Symbol": "GHST",
     "Name": "GHST World Inc."
+  },
+  {
+    "Symbol": "GHYP",
+    "Name": "Grayscale HYPE ETF"
   },
   {
     "Symbol": "GIBO",
@@ -10517,7 +10557,7 @@
   },
   {
     "Symbol": "GMEX",
-    "Name": "Fitell Corp"
+    "Name": "GMEX Robotics Corp"
   },
   {
     "Symbol": "GMGI",
@@ -11656,10 +11696,6 @@
     "Name": "Horizon Quantum Holdings Ltd."
   },
   {
-    "Symbol": "HQBB",
-    "Name": "Hong qi bang bang kai man science & technology development Co., Ltd"
-  },
-  {
     "Symbol": "HQGO",
     "Name": "HQGO"
   },
@@ -12508,10 +12544,6 @@
     "Name": "Indigo Acquisition Corp."
   },
   {
-    "Symbol": "INAI",
-    "Name": "Invea Therapeutics, Inc"
-  },
-  {
     "Symbol": "INBK",
     "Name": "First Internet Bancorp"
   },
@@ -13086,10 +13118,6 @@
   {
     "Symbol": "JAMF",
     "Name": "JAMF"
-  },
-  {
-    "Symbol": "JAN",
-    "Name": "Janus Living, Inc."
   },
   {
     "Symbol": "JANL",
@@ -14437,7 +14465,7 @@
   },
   {
     "Symbol": "LITM",
-    "Name": "Snow Lake Resources Ltd."
+    "Name": "Frontier Nuclear & Minerals Inc."
   },
   {
     "Symbol": "LITP",
@@ -14840,6 +14868,14 @@
     "Name": "Grayscale Litecoin Trust (LTC)"
   },
   {
+    "Symbol": "LTGHF",
+    "Name": "Life Healthcare Group Holdings Limited/ADR"
+  },
+  {
+    "Symbol": "LTGHY",
+    "Name": "Life Healthcare Group Holdings Limited/ADR"
+  },
+  {
     "Symbol": "LTMGF",
     "Name": "Lottomatica Group S.p.A./ADR"
   },
@@ -15002,6 +15038,14 @@
   {
     "Symbol": "MAJI",
     "Name": "Exousia Pro, Inc."
+  },
+  {
+    "Symbol": "MAKO",
+    "Name": "Mako Mining Corp."
+  },
+  {
+    "Symbol": "MAKOF",
+    "Name": "Mako Mining Corp."
   },
   {
     "Symbol": "MALG",
@@ -16017,7 +16061,7 @@
   },
   {
     "Symbol": "MRLN",
-    "Name": "INFLECTION POINT ACQUISITION CORP. IV"
+    "Name": "Merlin, Inc."
   },
   {
     "Symbol": "MRM",
@@ -16718,10 +16762,6 @@
   {
     "Symbol": "NETTF",
     "Name": "NetEase, Inc."
-  },
-  {
-    "Symbol": "NEUE",
-    "Name": "NeueHealth, Inc."
   },
   {
     "Symbol": "NEUP",
@@ -17656,6 +17696,10 @@
     "Name": "Nayax Ltd."
   },
   {
+    "Symbol": "NYB",
+    "Name": "NYB Holdings Ltd"
+  },
+  {
     "Symbol": "NYMXF",
     "Name": "NYMOX PHARMACEUTICAL CORP"
   },
@@ -18362,6 +18406,10 @@
   {
     "Symbol": "OWSCX",
     "Name": "1WS Credit Income Fund"
+  },
+  {
+    "Symbol": "OXFRP",
+    "Name": "Oxford Lane Capital Corp."
   },
   {
     "Symbol": "OXLC",
@@ -19276,6 +19324,10 @@
     "Name": "Pandora A/S / ADR"
   },
   {
+    "Symbol": "PNIG",
+    "Name": "Pacipic Nexus IntelliTech Group"
+  },
+  {
     "Symbol": "PNMXO",
     "Name": "PUBLIC SERVICE CO OF NEW MEXICO"
   },
@@ -19310,6 +19362,10 @@
   {
     "Symbol": "POAHF",
     "Name": "Porsche Automobil Holding SE / ADR"
+  },
+  {
+    "Symbol": "POCH",
+    "Name": "POCHE TECHNOLOGY CO., Ltd"
   },
   {
     "Symbol": "POCI",
@@ -19468,6 +19524,10 @@
     "Name": "PROCEPT BioRobotics Corp"
   },
   {
+    "Symbol": "PRCWF",
+    "Name": "Sofgen Pharma S.A."
+  },
+  {
     "Symbol": "PRDO",
     "Name": "PERDOCEO EDUCATION Corp"
   },
@@ -19534,6 +19594,10 @@
   {
     "Symbol": "PRNSY",
     "Name": "Princes Group plc/ADR"
+  },
+  {
+    "Symbol": "PROCF",
+    "Name": "Sofgen Pharma S.A."
   },
   {
     "Symbol": "PROF",
@@ -21273,11 +21337,11 @@
   },
   {
     "Symbol": "RUSHA",
-    "Name": "RUSH ENTERPRISES INC \\TX\\"
+    "Name": "RUSH ENTERPRISES INC TX"
   },
   {
     "Symbol": "RUSHB",
-    "Name": "RUSH ENTERPRISES INC \\TX\\"
+    "Name": "RUSH ENTERPRISES INC TX"
   },
   {
     "Symbol": "RVLGF",
@@ -21877,7 +21941,7 @@
   },
   {
     "Symbol": "SFCX",
-    "Name": "Tribal Rides International Corp."
+    "Name": "SUPA Consolidated Inc."
   },
   {
     "Symbol": "SFD",
@@ -23002,10 +23066,6 @@
   {
     "Symbol": "SPXSF",
     "Name": "Spirax-Sarco Engineering PLC/ADR"
-  },
-  {
-    "Symbol": "SQEI",
-    "Name": "Squirrel Enlivened International Co., Ltd"
   },
   {
     "Symbol": "SQFT",
@@ -25336,6 +25396,10 @@
     "Name": "Urgent.ly Inc."
   },
   {
+    "Symbol": "ULYX",
+    "Name": "Urgent.ly Inc."
+  },
+  {
     "Symbol": "UMBF",
     "Name": "UMB FINANCIAL CORP"
   },
@@ -25393,6 +25457,10 @@
   },
   {
     "Symbol": "UOKA",
+    "Name": "MDJM LTD"
+  },
+  {
+    "Symbol": "UOKAF",
     "Name": "MDJM LTD"
   },
   {
@@ -25766,10 +25834,6 @@
   {
     "Symbol": "VCUFF",
     "Name": "Vizsla Copper Corp."
-  },
-  {
-    "Symbol": "VCX",
-    "Name": "Fundrise Innovation Fund, LLC"
   },
   {
     "Symbol": "VCYT",
@@ -27040,6 +27104,10 @@
     "Name": "Xcelerate, Inc."
   },
   {
+    "Symbol": "XE",
+    "Name": "X-Energy, Inc."
+  },
+  {
     "Symbol": "XEL",
     "Name": "XCEL ENERGY INC"
   },
@@ -27524,6 +27592,10 @@
     "Name": "Zenvia Inc."
   },
   {
+    "Symbol": "ZENVF",
+    "Name": "Zenvia Inc."
+  },
+  {
     "Symbol": "ZEO",
     "Name": "Zeo Energy Corp."
   },
@@ -27682,10 +27754,6 @@
   {
     "Symbol": "ZSPC",
     "Name": "zSpace, Inc."
-  },
-  {
-    "Symbol": "ZSSK",
-    "Name": "ZHONGSHANG TECHNOLOGY INC"
   },
   {
     "Symbol": "ZSTK",

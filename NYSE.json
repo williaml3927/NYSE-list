@@ -1964,6 +1964,10 @@
     "Name": "BrandywineGLOBAL-Global Income Opportunities Fund Inc"
   },
   {
+    "Symbol": "BWIV-UN",
+    "Name": "Blue Water Acquisition Corp. IV"
+  },
+  {
     "Symbol": "BWLP",
     "Name": "BW LPG Ltd"
   },
@@ -4904,6 +4908,10 @@
     "Name": "GMRE"
   },
   {
+    "Symbol": "GMTL-WI",
+    "Name": "Guardian Metal Resources PLC"
+  },
+  {
     "Symbol": "GNE",
     "Name": "Genie Energy Ltd."
   },
@@ -5930,6 +5938,10 @@
   {
     "Symbol": "JACS-UN",
     "Name": "Jackson Acquisition Co II"
+  },
+  {
+    "Symbol": "JAN",
+    "Name": "Janus Living, Inc."
   },
   {
     "Symbol": "JBGS",
@@ -11430,6 +11442,10 @@
   {
     "Symbol": "VCV",
     "Name": "Invesco California Value Municipal Income Trust"
+  },
+  {
+    "Symbol": "VCX",
+    "Name": "Fundrise Innovation Fund, LLC"
   },
   {
     "Symbol": "VEEV",
