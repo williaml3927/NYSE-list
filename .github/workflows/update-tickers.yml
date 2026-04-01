@@ -1,40 +1,33 @@
-name: Update Ticker Lists
+name: Update NYSE List
 
 on:
   schedule:
-    - cron: '0 1 * * 0'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 5 * * 0'   # Every Sunday at 5am UTC (before stocks pipeline runs at 6am)
+  workflow_dispatch:        # Allows manual trigger from GitHub
 
 jobs:
-  update:
+  update-nyse-list:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install Dependencies
-        run: pip install yfinance requests
+      - name: Install dependencies
+        run: pip install requests yfinance
 
-      - name: Run Ticker Update
-        run: python update_tickers.py
+      - name: Run NYSE list enricher
+        run: python update_nyse_list.py
 
-      - name: Commit and Push
+      - name: Commit and push updated lists
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add "NYSE.json" "Other list.json"
-          git diff --staged --quiet && echo "No changes" && exit 0
-          git commit -m "Auto-update ticker lists $(date -u '+%Y-%m-%d')"
-          git pull --rebase origin main
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add NASDAQ.json NYSE.json AMEX.json name_cache.json
+          git diff --staged --quiet || git commit -m "Update exchange lists $(date +'%Y-%m-%d')"
           git push
