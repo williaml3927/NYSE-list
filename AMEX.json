@@ -1,0 +1,1178 @@
+[
+  {
+    "Symbol": "ACCS",
+    "Name": "ACCESS Newswire Inc."
+  },
+  {
+    "Symbol": "ACU",
+    "Name": "Acme United Corporation"
+  },
+  {
+    "Symbol": "AEF",
+    "Name": "abrdn Emerging Markets ex-China Fund, Inc."
+  },
+  {
+    "Symbol": "AEON",
+    "Name": "AEON Biopharma, Inc."
+  },
+  {
+    "Symbol": "AGIG",
+    "Name": "Abundia Global Impact Group Inc"
+  },
+  {
+    "Symbol": "AIB",
+    "Name": "BlockchAIn Digital Infrastructure, Inc."
+  },
+  {
+    "Symbol": "AIM",
+    "Name": "AIM ImmunoTech Inc."
+  },
+  {
+    "Symbol": "AIRI",
+    "Name": "Air Industries Group"
+  },
+  {
+    "Symbol": "AMBO",
+    "Name": "Ambow Education Holding Ltd."
+  },
+  {
+    "Symbol": "AMS",
+    "Name": "American Shared Hospital Services"
+  },
+  {
+    "Symbol": "AMZE",
+    "Name": "Amaze Holdings, Inc."
+  },
+  {
+    "Symbol": "APT",
+    "Name": "Alpha Pro Tech, Ltd."
+  },
+  {
+    "Symbol": "APUS",
+    "Name": "Apimeds Pharmaceuticals US, Inc."
+  },
+  {
+    "Symbol": "AREN",
+    "Name": "The Arena Group Holdings, Inc."
+  },
+  {
+    "Symbol": "ARMP",
+    "Name": "Armata Pharmaceuticals, Inc."
+  },
+  {
+    "Symbol": "ASM",
+    "Name": "Avino Silver & Gold Mines Ltd."
+  },
+  {
+    "Symbol": "ATCH",
+    "Name": "AtlasClear Holdings, Inc."
+  },
+  {
+    "Symbol": "ATNM",
+    "Name": "Actinium Pharmaceuticals, Inc."
+  },
+  {
+    "Symbol": "AUST",
+    "Name": "Austin Gold Corp."
+  },
+  {
+    "Symbol": "AWX",
+    "Name": "Avalon Holdings Corporation"
+  },
+  {
+    "Symbol": "AXIL",
+    "Name": "AXIL Brands, Inc."
+  },
+  {
+    "Symbol": "AZTR",
+    "Name": "Azitra, Inc."
+  },
+  {
+    "Symbol": "BATL",
+    "Name": "Battalion Oil Corporation"
+  },
+  {
+    "Symbol": "BCHT",
+    "Name": "Birchtech Corp."
+  },
+  {
+    "Symbol": "BCV",
+    "Name": "Bancroft Fund Ltd."
+  },
+  {
+    "Symbol": "BCV^A",
+    "Name": "BCV^A"
+  },
+  {
+    "Symbol": "BDL",
+    "Name": "Flanigan's Enterprises, Inc."
+  },
+  {
+    "Symbol": "BESS",
+    "Name": "Bimergen Energy Corporation"
+  },
+  {
+    "Symbol": "BGI",
+    "Name": "Birks Group Inc."
+  },
+  {
+    "Symbol": "BHB",
+    "Name": "Bar Harbor Bankshares"
+  },
+  {
+    "Symbol": "BHM",
+    "Name": "Bluerock Homes Trust, Inc."
+  },
+  {
+    "Symbol": "BKTI",
+    "Name": "BK Technologies Corporation"
+  },
+  {
+    "Symbol": "BMNR",
+    "Name": "Bitmine Immersion Technologies, Inc."
+  },
+  {
+    "Symbol": "BQ",
+    "Name": "Boqii Holding Limited"
+  },
+  {
+    "Symbol": "BRBS",
+    "Name": "Blue Ridge Bankshares, Inc."
+  },
+  {
+    "Symbol": "BRIA",
+    "Name": "BrilliA Inc"
+  },
+  {
+    "Symbol": "BRN",
+    "Name": "Barnwell Industries, Inc."
+  },
+  {
+    "Symbol": "BTG",
+    "Name": "B2Gold Corp."
+  },
+  {
+    "Symbol": "BUDA",
+    "Name": "Buda Juice, Inc."
+  },
+  {
+    "Symbol": "BURU",
+    "Name": "Nuburu, Inc."
+  },
+  {
+    "Symbol": "CANF",
+    "Name": "Can-Fite BioPharma Ltd."
+  },
+  {
+    "Symbol": "CATX",
+    "Name": "Perspective Therapeutics, Inc."
+  },
+  {
+    "Symbol": "CCEL",
+    "Name": "Cryo-Cell International, Inc."
+  },
+  {
+    "Symbol": "CET",
+    "Name": "Central Securities Corporation"
+  },
+  {
+    "Symbol": "CEV",
+    "Name": "Eaton Vance California Municipal Income Trust"
+  },
+  {
+    "Symbol": "CHOW",
+    "Name": "ChowChow Cloud International Holdings Limited"
+  },
+  {
+    "Symbol": "CIK",
+    "Name": "Credit Suisse Asset Management Income Fund, Inc."
+  },
+  {
+    "Symbol": "CITR",
+    "Name": "CitroTech Inc."
+  },
+  {
+    "Symbol": "CIX",
+    "Name": "CompX International Inc."
+  },
+  {
+    "Symbol": "CKX",
+    "Name": "CKX Lands, Inc."
+  },
+  {
+    "Symbol": "CLDI",
+    "Name": "Calidi Biotherapeutics, Inc."
+  },
+  {
+    "Symbol": "CLM",
+    "Name": "Cornerstone Strategic Investment Fund, Inc."
+  },
+  {
+    "Symbol": "CMCL",
+    "Name": "Caledonia Mining Corporation Plc"
+  },
+  {
+    "Symbol": "CMT",
+    "Name": "Core Molding Technologies, Inc."
+  },
+  {
+    "Symbol": "CNL",
+    "Name": "Collective Mining Ltd."
+  },
+  {
+    "Symbol": "COE",
+    "Name": "51Talk Online Education Group"
+  },
+  {
+    "Symbol": "COHN",
+    "Name": "Cohen & Company Inc."
+  },
+  {
+    "Symbol": "CPHI",
+    "Name": "China Pharma Holdings, Inc."
+  },
+  {
+    "Symbol": "CRF",
+    "Name": "Cornerstone Total Return Fund, Inc."
+  },
+  {
+    "Symbol": "CTGO",
+    "Name": "Contango Silver & Gold Inc."
+  },
+  {
+    "Symbol": "CTM",
+    "Name": "Castellum, Inc."
+  },
+  {
+    "Symbol": "CVM",
+    "Name": "CEL-SCI Corporation"
+  },
+  {
+    "Symbol": "CVR",
+    "Name": "Chicago Rivet & Machine Co."
+  },
+  {
+    "Symbol": "CVU",
+    "Name": "CPI Aerostructures, Inc."
+  },
+  {
+    "Symbol": "DC",
+    "Name": "Dakota Gold Corp."
+  },
+  {
+    "Symbol": "DDC",
+    "Name": "DDC Enterprise Limited"
+  },
+  {
+    "Symbol": "DHY",
+    "Name": "Credit Suisse High Yield Credit Fund"
+  },
+  {
+    "Symbol": "DIT",
+    "Name": "AMCON Distributing Company"
+  },
+  {
+    "Symbol": "DNN",
+    "Name": "Denison Mines Corp."
+  },
+  {
+    "Symbol": "DSS",
+    "Name": "DSS, Inc."
+  },
+  {
+    "Symbol": "DXF",
+    "Name": "Eason Technology Limited"
+  },
+  {
+    "Symbol": "EAD",
+    "Name": "Wells Fargo Advantage Funds - Allspring Income Opportunities Fund"
+  },
+  {
+    "Symbol": "ECF",
+    "Name": "Ellsworth Growth and Income Fund Ltd."
+  },
+  {
+    "Symbol": "ECF^A",
+    "Name": "ECF^A"
+  },
+  {
+    "Symbol": "EIM",
+    "Name": "Eaton Vance Municipal Bond Fund"
+  },
+  {
+    "Symbol": "ELA",
+    "Name": "Envela Corporation"
+  },
+  {
+    "Symbol": "ELLO",
+    "Name": "Ellomay Capital Ltd."
+  },
+  {
+    "Symbol": "ELMD",
+    "Name": "Electromed, Inc."
+  },
+  {
+    "Symbol": "EONR",
+    "Name": "EON Resources Inc."
+  },
+  {
+    "Symbol": "EP",
+    "Name": "Empire Petroleum Corporation"
+  },
+  {
+    "Symbol": "EPM",
+    "Name": "Evolution Petroleum Corporation"
+  },
+  {
+    "Symbol": "EQX",
+    "Name": "Equinox Gold Corp."
+  },
+  {
+    "Symbol": "ERC",
+    "Name": "Allspring Multi-Sector Income Fund"
+  },
+  {
+    "Symbol": "ERH",
+    "Name": "Allspring Utilities and High Income Fund"
+  },
+  {
+    "Symbol": "ESP",
+    "Name": "Espey Mfg. & Electronics Corp."
+  },
+  {
+    "Symbol": "EVI",
+    "Name": "EVI Industries, Inc."
+  },
+  {
+    "Symbol": "EVV",
+    "Name": "Eaton Vance Limited Duration Income Fund"
+  },
+  {
+    "Symbol": "EXOD",
+    "Name": "Exodus Movement, Inc."
+  },
+  {
+    "Symbol": "FAX",
+    "Name": "Abrdn Asia-Pacific Income Fund Inc"
+  },
+  {
+    "Symbol": "FCO",
+    "Name": "abrdn Global Income Fund, Inc."
+  },
+  {
+    "Symbol": "FJET",
+    "Name": "Starfighters Space, Inc."
+  },
+  {
+    "Symbol": "FLYX",
+    "Name": "flyExclusive, Inc."
+  },
+  {
+    "Symbol": "FSI",
+    "Name": "Flexible Solutions International, Inc."
+  },
+  {
+    "Symbol": "FSP",
+    "Name": "Franklin Street Properties Corp."
+  },
+  {
+    "Symbol": "FTF",
+    "Name": "Franklin Limited Duration Income Trust"
+  },
+  {
+    "Symbol": "FURY",
+    "Name": "Fury Gold Mines Limited"
+  },
+  {
+    "Symbol": "GAU",
+    "Name": "Galiano Gold Inc."
+  },
+  {
+    "Symbol": "GBR",
+    "Name": "New Concept Energy, Inc."
+  },
+  {
+    "Symbol": "GCDT",
+    "Name": "Green Circle Decarbonize Techno"
+  },
+  {
+    "Symbol": "GENC",
+    "Name": "Gencor Industries, Inc."
+  },
+  {
+    "Symbol": "GGN",
+    "Name": "GAMCO Global Gold, Natural Resources & Income Trust"
+  },
+  {
+    "Symbol": "GGN^B",
+    "Name": "GGN^B"
+  },
+  {
+    "Symbol": "GLDG",
+    "Name": "GoldMining Inc."
+  },
+  {
+    "Symbol": "GLO",
+    "Name": "Clough Global Opportunities Fund"
+  },
+  {
+    "Symbol": "GLQ",
+    "Name": "Clough Global Equity Fund"
+  },
+  {
+    "Symbol": "GLU",
+    "Name": "The Gabelli Global Utility & Income Trust"
+  },
+  {
+    "Symbol": "GLU^B",
+    "Name": "GLU^B"
+  },
+  {
+    "Symbol": "GLV",
+    "Name": "Clough Global Dividend and Income Fund"
+  },
+  {
+    "Symbol": "GMTL",
+    "Name": "Guardian Metal Resources PLC"
+  },
+  {
+    "Symbol": "GNS",
+    "Name": "Genius Group Limited"
+  },
+  {
+    "Symbol": "GORO",
+    "Name": "Gold Resource Corporation"
+  },
+  {
+    "Symbol": "GPUS",
+    "Name": "Hyperscale Data, Inc."
+  },
+  {
+    "Symbol": "GPUS^D",
+    "Name": "GPUS^D"
+  },
+  {
+    "Symbol": "GRAF",
+    "Name": "Graf Global Corp."
+  },
+  {
+    "Symbol": "GRF",
+    "Name": "Eagle Capital Growth Fund, Inc."
+  },
+  {
+    "Symbol": "GRO",
+    "Name": "Brazil Potash Corp."
+  },
+  {
+    "Symbol": "GROY",
+    "Name": "Gold Royalty Corp."
+  },
+  {
+    "Symbol": "GTE",
+    "Name": "Gran Tierra Energy Inc."
+  },
+  {
+    "Symbol": "HCWC",
+    "Name": "Healthy Choice Wellness Corp."
+  },
+  {
+    "Symbol": "HSLV",
+    "Name": "Highlander Silver Corp."
+  },
+  {
+    "Symbol": "HYLN",
+    "Name": "Hyliion Holdings Corp."
+  },
+  {
+    "Symbol": "IAF",
+    "Name": "Abrdn Australia Equity Fund Inc"
+  },
+  {
+    "Symbol": "IAUX",
+    "Name": "i-80 Gold Corp."
+  },
+  {
+    "Symbol": "IBO",
+    "Name": "Impact BioMedical Inc."
+  },
+  {
+    "Symbol": "IDR",
+    "Name": "Idaho Strategic Resources, Inc."
+  },
+  {
+    "Symbol": "IE",
+    "Name": "Ivanhoe Electric Inc."
+  },
+  {
+    "Symbol": "IGC",
+    "Name": "IGC Pharma, Inc."
+  },
+  {
+    "Symbol": "IHT",
+    "Name": "InnSuites Hospitality Trust"
+  },
+  {
+    "Symbol": "IMO",
+    "Name": "Imperial Oil Limited"
+  },
+  {
+    "Symbol": "INDO",
+    "Name": "Indonesia Energy Corporation Limited"
+  },
+  {
+    "Symbol": "INFU",
+    "Name": "InfuSystem Holdings, Inc."
+  },
+  {
+    "Symbol": "INLX",
+    "Name": "Intellinetics, Inc."
+  },
+  {
+    "Symbol": "INTT",
+    "Name": "InTest Corporation"
+  },
+  {
+    "Symbol": "INUV",
+    "Name": "Inuvo, Inc."
+  },
+  {
+    "Symbol": "IOR",
+    "Name": "Income Opportunity Realty Investors, Inc."
+  },
+  {
+    "Symbol": "ISOU",
+    "Name": "IsoEnergy Ltd."
+  },
+  {
+    "Symbol": "ITP",
+    "Name": "IT Tech Packaging, Inc."
+  },
+  {
+    "Symbol": "ITRG",
+    "Name": "Integra Resources Corp."
+  },
+  {
+    "Symbol": "JAGU",
+    "Name": "Jaguar Uranium Corp."
+  },
+  {
+    "Symbol": "JOB",
+    "Name": "GEE Group Inc."
+  },
+  {
+    "Symbol": "KAPA",
+    "Name": "Kairos Pharma, Ltd."
+  },
+  {
+    "Symbol": "KNRX",
+    "Name": "Knorex Ltd."
+  },
+  {
+    "Symbol": "KULR",
+    "Name": "KULR Technology Group, Inc."
+  },
+  {
+    "Symbol": "LCTX",
+    "Name": "Lineage Cell Therapeutics, Inc."
+  },
+  {
+    "Symbol": "LEGO",
+    "Name": "Legato Merger Corp. IV"
+  },
+  {
+    "Symbol": "LEGT",
+    "Name": "Legato Merger Corp. III"
+  },
+  {
+    "Symbol": "LGCY",
+    "Name": "Legacy Education Inc."
+  },
+  {
+    "Symbol": "LGL",
+    "Name": "The LGL Group, Inc."
+  },
+  {
+    "Symbol": "LGPS",
+    "Name": "LogProstyle Inc."
+  },
+  {
+    "Symbol": "LODE",
+    "Name": "Comstock Inc."
+  },
+  {
+    "Symbol": "LPA",
+    "Name": "Logistic Properties of the Americas"
+  },
+  {
+    "Symbol": "LSF",
+    "Name": "Laird Superfood, Inc."
+  },
+  {
+    "Symbol": "LUD",
+    "Name": "Luda Technology Group Limited"
+  },
+  {
+    "Symbol": "LXFR",
+    "Name": "Luxfer Holdings PLC"
+  },
+  {
+    "Symbol": "MAIA",
+    "Name": "MAIA Biotechnology, Inc."
+  },
+  {
+    "Symbol": "MCRP",
+    "Name": "Micropolis AI Robotics"
+  },
+  {
+    "Symbol": "MGLD",
+    "Name": "The Marygold Companies, Inc."
+  },
+  {
+    "Symbol": "MHH",
+    "Name": "Mastech Digital, Inc."
+  },
+  {
+    "Symbol": "MI",
+    "Name": "NFT Limited"
+  },
+  {
+    "Symbol": "MINE",
+    "Name": "Mayfair Gold Corp."
+  },
+  {
+    "Symbol": "MITQ",
+    "Name": "Moving iMage Technologies, Inc."
+  },
+  {
+    "Symbol": "MLSS",
+    "Name": "Milestone Scientific Inc."
+  },
+  {
+    "Symbol": "MMA",
+    "Name": "Mixed Martial Arts Group Limited"
+  },
+  {
+    "Symbol": "MPTI",
+    "Name": "M-tron Industries, Inc."
+  },
+  {
+    "Symbol": "MPU",
+    "Name": "Mega Matrix Inc."
+  },
+  {
+    "Symbol": "MRT",
+    "Name": "Marti Technologies, Inc."
+  },
+  {
+    "Symbol": "MSN",
+    "Name": "Emerson Radio Corp."
+  },
+  {
+    "Symbol": "MTA",
+    "Name": "Metalla Royalty & Streaming Ltd."
+  },
+  {
+    "Symbol": "MTNB",
+    "Name": "Matinas BioPharma Holdings, Inc."
+  },
+  {
+    "Symbol": "MWG",
+    "Name": "Multi Ways Holdings Limited"
+  },
+  {
+    "Symbol": "MXC",
+    "Name": "Mexco Energy Corporation"
+  },
+  {
+    "Symbol": "MYND",
+    "Name": "Mynd.ai, Inc."
+  },
+  {
+    "Symbol": "MYO",
+    "Name": "Myomo, Inc."
+  },
+  {
+    "Symbol": "NAK",
+    "Name": "Northern Dynasty Minerals Ltd."
+  },
+  {
+    "Symbol": "NBH",
+    "Name": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc."
+  },
+  {
+    "Symbol": "NBY",
+    "Name": "NovaBay Pharmaceuticals, Inc."
+  },
+  {
+    "Symbol": "NCL",
+    "Name": "Northann Corp."
+  },
+  {
+    "Symbol": "NEN",
+    "Name": "New England Realty Associates Limited Partnership"
+  },
+  {
+    "Symbol": "NEWP",
+    "Name": "New Pacific Metals Corp."
+  },
+  {
+    "Symbol": "NFGC",
+    "Name": "New Found Gold Corp."
+  },
+  {
+    "Symbol": "NG",
+    "Name": "NovaGold Resources Inc."
+  },
+  {
+    "Symbol": "NHC",
+    "Name": "National HealthCare Corporation"
+  },
+  {
+    "Symbol": "NHS",
+    "Name": "Neuberger Berman Income Funds - Neuberger High Yield Strategies Fund Inc."
+  },
+  {
+    "Symbol": "NINE",
+    "Name": "Nine Energy Service, Inc."
+  },
+  {
+    "Symbol": "NML",
+    "Name": "Neuberger Berman Income Funds - Neuberger Energy Infrastructure and Income Fund Inc."
+  },
+  {
+    "Symbol": "NNVC",
+    "Name": "NanoViricides, Inc."
+  },
+  {
+    "Symbol": "NRO",
+    "Name": "Neuberger Berman Income Funds - Neuberger Real Estate Securities Income Fund Inc."
+  },
+  {
+    "Symbol": "NRXS",
+    "Name": "NeurAxis, Inc."
+  },
+  {
+    "Symbol": "NSRX",
+    "Name": "Nasus Pharma Ltd."
+  },
+  {
+    "Symbol": "NTIP",
+    "Name": "Network-1 Technologies, Inc."
+  },
+  {
+    "Symbol": "OBE",
+    "Name": "Obsidian Energy Ltd."
+  },
+  {
+    "Symbol": "OGEN",
+    "Name": "Oragenics, Inc."
+  },
+  {
+    "Symbol": "OPHC",
+    "Name": "OptimumBank Holdings, Inc."
+  },
+  {
+    "Symbol": "OPP^C",
+    "Name": "OPP^C"
+  },
+  {
+    "Symbol": "OPTT",
+    "Name": "Ocean Power Technologies, Inc."
+  },
+  {
+    "Symbol": "ORLA",
+    "Name": "Orla Mining Ltd."
+  },
+  {
+    "Symbol": "OSTX",
+    "Name": "OS Therapies Incorporated"
+  },
+  {
+    "Symbol": "OTH",
+    "Name": "Off The Hook YS Inc."
+  },
+  {
+    "Symbol": "OZ",
+    "Name": "Belpointe PREP, LLC"
+  },
+  {
+    "Symbol": "PAPL",
+    "Name": "Pineapple Financial Inc."
+  },
+  {
+    "Symbol": "PCG^A",
+    "Name": "PCG^A"
+  },
+  {
+    "Symbol": "PCG^B",
+    "Name": "PCG^B"
+  },
+  {
+    "Symbol": "PCG^C",
+    "Name": "PCG^C"
+  },
+  {
+    "Symbol": "PCG^D",
+    "Name": "PCG^D"
+  },
+  {
+    "Symbol": "PCG^E",
+    "Name": "PCG^E"
+  },
+  {
+    "Symbol": "PCG^G",
+    "Name": "PCG^G"
+  },
+  {
+    "Symbol": "PCG^H",
+    "Name": "PCG^H"
+  },
+  {
+    "Symbol": "PCG^I",
+    "Name": "PCG^I"
+  },
+  {
+    "Symbol": "PED",
+    "Name": "PEDEVCO Corp."
+  },
+  {
+    "Symbol": "PHGE",
+    "Name": "BiomX Inc."
+  },
+  {
+    "Symbol": "PHXE^",
+    "Name": "PHXE^"
+  },
+  {
+    "Symbol": "PLAG",
+    "Name": "Planet Green Holdings Corp."
+  },
+  {
+    "Symbol": "PLG",
+    "Name": "Platinum Group Metals Ltd."
+  },
+  {
+    "Symbol": "PLX",
+    "Name": "Protalix BioTherapeutics, Inc."
+  },
+  {
+    "Symbol": "PMI",
+    "Name": "Picard Medical, Inc."
+  },
+  {
+    "Symbol": "PMNT",
+    "Name": "Perfect Moment Ltd. Common Stock"
+  },
+  {
+    "Symbol": "POAS",
+    "Name": "Phaos Technology Holdings (Caym"
+  },
+  {
+    "Symbol": "PRK",
+    "Name": "Park National Corporation"
+  },
+  {
+    "Symbol": "PTHS",
+    "Name": "Pelthos Therapeutics Inc."
+  },
+  {
+    "Symbol": "PTN",
+    "Name": "Palatin Technologies, Inc."
+  },
+  {
+    "Symbol": "PW",
+    "Name": "Power REIT"
+  },
+  {
+    "Symbol": "PW^A",
+    "Name": "PW^A"
+  },
+  {
+    "Symbol": "PZG",
+    "Name": "Paramount Gold Nevada Corp."
+  },
+  {
+    "Symbol": "QNC",
+    "Name": "Quantum eMotion Corp."
+  },
+  {
+    "Symbol": "RCG",
+    "Name": "RENN Fund, Inc."
+  },
+  {
+    "Symbol": "REED",
+    "Name": "Reed's, Inc."
+  },
+  {
+    "Symbol": "REI",
+    "Name": "Ring Energy, Inc."
+  },
+  {
+    "Symbol": "REPX",
+    "Name": "Riley Exploration Permian, Inc."
+  },
+  {
+    "Symbol": "RGNT",
+    "Name": "Regentis Biomaterials Ltd."
+  },
+  {
+    "Symbol": "RLGT",
+    "Name": "Radiant Logistics, Inc."
+  },
+  {
+    "Symbol": "ROLR",
+    "Name": "High Roller Technologies, Inc."
+  },
+  {
+    "Symbol": "RVP",
+    "Name": "Retractable Technologies, Inc."
+  },
+  {
+    "Symbol": "RYDE",
+    "Name": "Ryde Group Ltd."
+  },
+  {
+    "Symbol": "SACH",
+    "Name": "Sachem Capital Corp."
+  },
+  {
+    "Symbol": "SACH^A",
+    "Name": "SACH^A"
+  },
+  {
+    "Symbol": "SBEV",
+    "Name": "Splash Beverage Group, Inc."
+  },
+  {
+    "Symbol": "SCCD",
+    "Name": "Sachem Capital Corp. 6.00% Note"
+  },
+  {
+    "Symbol": "SCCE",
+    "Name": "Sachem Capital Corp. 6.00% Note"
+  },
+  {
+    "Symbol": "SCCF",
+    "Name": "Sachem Capital Corp. 7.125% Not"
+  },
+  {
+    "Symbol": "SCCG",
+    "Name": "Sachem Capital Corp. 8.00% Note"
+  },
+  {
+    "Symbol": "SEB",
+    "Name": "Seaboard Corporation"
+  },
+  {
+    "Symbol": "SER",
+    "Name": "Serina Therapeutics, Inc."
+  },
+  {
+    "Symbol": "SIF",
+    "Name": "SIFCO Industries, Inc."
+  },
+  {
+    "Symbol": "SIM",
+    "Name": "Grupo Simec, S.A.B. de C.V."
+  },
+  {
+    "Symbol": "SLI",
+    "Name": "Standard Lithium Ltd."
+  },
+  {
+    "Symbol": "SLND",
+    "Name": "Southland Holdings, Inc."
+  },
+  {
+    "Symbol": "SLSR",
+    "Name": "Solaris Resources Inc."
+  },
+  {
+    "Symbol": "SMJF",
+    "Name": "SMJ International Holdings Inc."
+  },
+  {
+    "Symbol": "SOAR",
+    "Name": "Volato Group, Inc."
+  },
+  {
+    "Symbol": "SRXH",
+    "Name": "SRx Health Solutions Inc."
+  },
+  {
+    "Symbol": "STRW",
+    "Name": "Strawberry Fields REIT, Inc."
+  },
+  {
+    "Symbol": "STXS",
+    "Name": "Stereotaxis, Inc."
+  },
+  {
+    "Symbol": "SVM",
+    "Name": "Silvercorp Metals Inc."
+  },
+  {
+    "Symbol": "SYNX",
+    "Name": "Silynxcom Ltd."
+  },
+  {
+    "Symbol": "TGB",
+    "Name": "Taseko Mines Limited"
+  },
+  {
+    "Symbol": "TGEN",
+    "Name": "Tecogen Inc."
+  },
+  {
+    "Symbol": "THM",
+    "Name": "International Tower Hill Mines Ltd."
+  },
+  {
+    "Symbol": "TII",
+    "Name": "Titan Mining Corporation"
+  },
+  {
+    "Symbol": "TMDE",
+    "Name": "TMD Energy Limited"
+  },
+  {
+    "Symbol": "TMP",
+    "Name": "Tompkins Financial Corporation"
+  },
+  {
+    "Symbol": "TMQ",
+    "Name": "Trilogy Metals Inc."
+  },
+  {
+    "Symbol": "TOON",
+    "Name": "Kartoon Studios Inc."
+  },
+  {
+    "Symbol": "TOPP",
+    "Name": "Toppoint Holdings Inc."
+  },
+  {
+    "Symbol": "TOPS",
+    "Name": "Top Ships Inc."
+  },
+  {
+    "Symbol": "TOVX",
+    "Name": "Theriva Biologics, Inc."
+  },
+  {
+    "Symbol": "TPET",
+    "Name": "Trio Petroleum Corp."
+  },
+  {
+    "Symbol": "TRT",
+    "Name": "Trio-Tech International"
+  },
+  {
+    "Symbol": "TRX",
+    "Name": "TRX Gold Corporation"
+  },
+  {
+    "Symbol": "UAC",
+    "Name": "United Acquisition Corp. I"
+  },
+  {
+    "Symbol": "UAVS",
+    "Name": "AgEagle Aerial Systems, Inc."
+  },
+  {
+    "Symbol": "UEC",
+    "Name": "Uranium Energy Corp."
+  },
+  {
+    "Symbol": "UMAC",
+    "Name": "Unusual Machines, Inc."
+  },
+  {
+    "Symbol": "URG",
+    "Name": "Ur-Energy Inc."
+  },
+  {
+    "Symbol": "USAS",
+    "Name": "Americas Gold and Silver Corporation"
+  },
+  {
+    "Symbol": "USBC",
+    "Name": "USBC, Inc."
+  },
+  {
+    "Symbol": "UTG",
+    "Name": "Reaves Utility Income Fund"
+  },
+  {
+    "Symbol": "UUU",
+    "Name": "Universal Safety Products, Inc"
+  },
+  {
+    "Symbol": "UUUU",
+    "Name": "Energy Fuels Inc."
+  },
+  {
+    "Symbol": "VENU",
+    "Name": "Venu Holding Corporation"
+  },
+  {
+    "Symbol": "VFL",
+    "Name": "abrdn National Municipal Income Fund"
+  },
+  {
+    "Symbol": "VGZ",
+    "Name": "Vista Gold Corp."
+  },
+  {
+    "Symbol": "VKI",
+    "Name": "Invesco Advantage Municipal Income Trust II"
+  },
+  {
+    "Symbol": "VNRX",
+    "Name": "VolitionRx Limited"
+  },
+  {
+    "Symbol": "VNTG",
+    "Name": "Vantage Corp"
+  },
+  {
+    "Symbol": "VTAK",
+    "Name": "Catheter Precision, Inc."
+  },
+  {
+    "Symbol": "VZLA",
+    "Name": "Vizsla Silver Corp."
+  },
+  {
+    "Symbol": "WRN",
+    "Name": "Western Copper and Gold Corporation"
+  },
+  {
+    "Symbol": "WWR",
+    "Name": "Westwater Resources, Inc."
+  },
+  {
+    "Symbol": "WYY",
+    "Name": "WidePoint Corporation"
+  },
+  {
+    "Symbol": "XPL",
+    "Name": "Solitario Resources Corp."
+  },
+  {
+    "Symbol": "XTNT",
+    "Name": "Xtant Medical Holdings, Inc."
+  },
+  {
+    "Symbol": "YCBD",
+    "Name": "cbdMD, Inc."
+  },
+  {
+    "Symbol": "ZDGE",
+    "Name": "Zedge, Inc."
+  },
+  {
+    "Symbol": "ZONE",
+    "Name": "CleanCore Solutions, Inc."
+  }
+]
