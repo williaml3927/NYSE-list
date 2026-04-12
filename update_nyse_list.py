@@ -172,8 +172,8 @@ def enrich_exchange(exchange: str, tickers: list[str], cache: dict) -> list[dict
 
         if i % 10 == 0 or i == len(tickers):
             elapsed = time.time() - start
-            rate = fetched / elapsed if elapsed > 0 else 1
-            remaining = max(0, (to_fetch - fetched) / rate)
+            rate = fetched / elapsed if elapsed > 0 and fetched > 0 else None
+            remaining = max(0, (to_fetch - fetched) / rate) if rate else 0
             print(f"    {i:>5}/{len(tickers)}  {ticker:<12}  "
                   f"~{remaining/60:.0f}m left", end="\r")
 
