@@ -2,19 +2,20 @@ name: Update NYSE List
 
 on:
   schedule:
-    - cron: '0 5 * * 0'   # Every Sunday at 5am UTC (before stocks pipeline runs at 6am)
-  workflow_dispatch:        # Allows manual trigger from GitHub
-
-permissions:
-  contents: write           # Required to push updated JSON files back to the repo
+    - cron: '0 5 * * 0'   # Every Sunday at 5am UTC
+  workflow_dispatch:
 
 jobs:
   update-nyse-list:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout pipeline repo
+        uses: actions/checkout@v4
+
+      - name: Clone NYSE-list repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/williaml3927/NYSE-list.git output-repo
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,10 +28,14 @@ jobs:
       - name: Run NYSE list enricher
         run: python update_nyse_list.py
 
-      - name: Commit and push updated lists
+      - name: Copy and push to NYSE-list repo
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          cp NASDAQ.json NYSE.json AMEX.json output-repo/
+          cp name_cache.json output-repo/ 2>/dev/null || true
+          cd output-repo
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add NASDAQ.json NYSE.json AMEX.json name_cache.json
-          git diff --staged --quiet || git commit -m "Update exchange lists $(date +'%Y-%m-%d')"
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "Update exchange lists $(date +'%Y-%m-%d')"
           git push
