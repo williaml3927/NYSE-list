@@ -48,10 +48,6 @@
     "Name": "Alpha Pro Tech, Ltd."
   },
   {
-    "Symbol": "APUS",
-    "Name": "Apimeds Pharmaceuticals US, Inc."
-  },
-  {
     "Symbol": "AREN",
     "Name": "The Arena Group Holdings, Inc."
   },
@@ -126,10 +122,6 @@
   {
     "Symbol": "BKTI",
     "Name": "BK Technologies Corporation"
-  },
-  {
-    "Symbol": "BMNR",
-    "Name": "Bitmine Immersion Technologies, Inc."
   },
   {
     "Symbol": "BQ",
@@ -700,10 +692,6 @@
     "Name": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc."
   },
   {
-    "Symbol": "NBY",
-    "Name": "NovaBay Pharmaceuticals, Inc."
-  },
-  {
     "Symbol": "NCL",
     "Name": "Northann Corp."
   },
@@ -958,6 +946,10 @@
   {
     "Symbol": "SCCG",
     "Name": "Sachem Capital Corp. 8.00% Note"
+  },
+  {
+    "Symbol": "SDEV",
+    "Name": "Stablecoin Development Corporat"
   },
   {
     "Symbol": "SEB",

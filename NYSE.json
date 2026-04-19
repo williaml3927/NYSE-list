@@ -412,10 +412,6 @@
     "Name": "Acadia Realty Trust"
   },
   {
-    "Symbol": "AL",
-    "Name": "Air Lease Corporation"
-  },
-  {
     "Symbol": "ALB",
     "Name": "Albemarle Corporation"
   },
@@ -918,6 +914,10 @@
   {
     "Symbol": "AVD",
     "Name": "American Vanguard Corporation"
+  },
+  {
+    "Symbol": "AVEX",
+    "Name": "AEVEX Corp."
   },
   {
     "Symbol": "AVK",
@@ -1552,6 +1552,10 @@
     "Name": "Blackrock 2037 Municipal Target Term Trust"
   },
   {
+    "Symbol": "BMNR",
+    "Name": "Bitmine Immersion Technologies, Inc."
+  },
+  {
     "Symbol": "BMO",
     "Name": "Bank of Montreal"
   },
@@ -2056,6 +2060,10 @@
     "Name": "CFR^B"
   },
   {
+    "Symbol": "CFTR^A",
+    "Name": "CFTR^A"
+  },
+  {
     "Symbol": "CGAU",
     "Name": "Centerra Gold Inc."
   },
@@ -2434,6 +2442,10 @@
   {
     "Symbol": "COP",
     "Name": "ConocoPhillips"
+  },
+  {
+    "Symbol": "COPL",
+    "Name": "Copley Acquisition Corp"
   },
   {
     "Symbol": "COR",
@@ -2816,6 +2828,10 @@
     "Name": "DBRG^J"
   },
   {
+    "Symbol": "DCBG",
+    "Name": "DCBG"
+  },
+  {
     "Symbol": "DCH",
     "Name": "Dauch Corporation"
   },
@@ -2826,6 +2842,14 @@
   {
     "Symbol": "DCO",
     "Name": "Ducommun Incorporated"
+  },
+  {
+    "Symbol": "DCOM",
+    "Name": "Dime Community Bancshares, Inc."
+  },
+  {
+    "Symbol": "DCOM^",
+    "Name": "DCOM^"
   },
   {
     "Symbol": "DD",
@@ -3320,10 +3344,6 @@
     "Name": "Eagle Point Income Company Inc."
   },
   {
-    "Symbol": "EICC",
-    "Name": "Eagle Point Income Company Inc."
-  },
-  {
     "Symbol": "EIG",
     "Name": "Employers Holdings, Inc."
   },
@@ -3350,6 +3370,10 @@
   {
     "Symbol": "ELF",
     "Name": "e.l.f. Beauty, Inc."
+  },
+  {
+    "Symbol": "ELLA",
+    "Name": "Ellington Credit Company"
   },
   {
     "Symbol": "ELME",
@@ -3798,10 +3822,6 @@
   {
     "Symbol": "FFC",
     "Name": "Flaherty & Crumrine Preferred Securities Income Fund Inc."
-  },
-  {
-    "Symbol": "FFWM",
-    "Name": "First Foundation Inc."
   },
   {
     "Symbol": "FG",
@@ -4318,6 +4338,10 @@
   {
     "Symbol": "GL",
     "Name": "Globe Life Inc."
+  },
+  {
+    "Symbol": "GLED",
+    "Name": "GalaxyEdge Acquisition Corporation"
   },
   {
     "Symbol": "GLOB",
@@ -4936,10 +4960,6 @@
     "Name": "Hyster-Yale, Inc."
   },
   {
-    "Symbol": "HYAC",
-    "Name": "Haymaker Acquisition Corp. 4"
-  },
-  {
     "Symbol": "HYI",
     "Name": "Western Asset High Yield Opportunity Fund Inc."
   },
@@ -5262,6 +5282,10 @@
   {
     "Symbol": "JELD",
     "Name": "JELD-WEN Holding, Inc."
+  },
+  {
+    "Symbol": "JENA",
+    "Name": "Jena Acquisition Corporation II"
   },
   {
     "Symbol": "JFR",
@@ -5952,6 +5976,10 @@
     "Name": "Main Street Capital Corporation"
   },
   {
+    "Symbol": "MAIR",
+    "Name": "Madison Air Solutions Corporation"
+  },
+  {
     "Symbol": "MAN",
     "Name": "ManpowerGroup Inc."
   },
@@ -6446,6 +6474,10 @@
   {
     "Symbol": "MT",
     "Name": "ArcelorMittal S.A."
+  },
+  {
+    "Symbol": "MTAL",
+    "Name": "MAC Copper"
   },
   {
     "Symbol": "MTB",
@@ -7156,6 +7188,10 @@
     "Name": "Once Upon A Farm, PBC"
   },
   {
+    "Symbol": "OGC",
+    "Name": "OceanaGold Corporation"
+  },
+  {
     "Symbol": "OGE",
     "Name": "OGE Energy Corp."
   },
@@ -7222,10 +7258,6 @@
   {
     "Symbol": "ONON",
     "Name": "On Holding AG"
-  },
-  {
-    "Symbol": "ONTF",
-    "Name": "ON24, Inc."
   },
   {
     "Symbol": "ONTO",
@@ -7338,6 +7370,10 @@
   {
     "Symbol": "OXY",
     "Name": "Occidental Petroleum Corporation"
+  },
+  {
+    "Symbol": "P",
+    "Name": "Everpure, Inc."
   },
   {
     "Symbol": "PAAS",
@@ -7952,10 +7988,6 @@
     "Name": "PSQ Holdings, Inc."
   },
   {
-    "Symbol": "PSTG",
-    "Name": "Everpure, Inc."
-  },
-  {
     "Symbol": "PSTL",
     "Name": "Postal Realty Trust, Inc."
   },
@@ -8022,14 +8054,6 @@
   {
     "Symbol": "QUAD",
     "Name": "Quad/Graphics, Inc."
-  },
-  {
-    "Symbol": "QVCC",
-    "Name": "QVC, Inc. 6.250% Senior Secured"
-  },
-  {
-    "Symbol": "QVCD",
-    "Name": "QVC, Inc. 6.375% Senior Secured"
   },
   {
     "Symbol": "QXO",
@@ -8508,10 +8532,6 @@
     "Name": "Saba Capital Income & Opportunities Fund II"
   },
   {
-    "Symbol": "SAC",
-    "Name": "Safeguard Acquisition Corp."
-  },
-  {
     "Symbol": "SAFE",
     "Name": "Safehold Inc."
   },
@@ -8562,10 +8582,6 @@
   {
     "Symbol": "SB",
     "Name": "Safe Bulkers, Inc."
-  },
-  {
-    "Symbol": "SBDS",
-    "Name": "Solo Brands, Inc."
   },
   {
     "Symbol": "SBH",
@@ -8678,10 +8694,6 @@
   {
     "Symbol": "SEAL^B",
     "Name": "SEAL^B"
-  },
-  {
-    "Symbol": "SEE",
-    "Name": "Sealed Air Corporation"
   },
   {
     "Symbol": "SEG",
@@ -10060,6 +10072,10 @@
     "Name": "Marriott Vacations Worldwide Corporation"
   },
   {
+    "Symbol": "VACI",
+    "Name": "Viking Acquisition Corp. I"
+  },
+  {
     "Symbol": "VAL",
     "Name": "Valaris Limited"
   },
@@ -10110,6 +10126,10 @@
   {
     "Symbol": "VGM",
     "Name": "Invesco Trust for Investment Grade Municipals"
+  },
+  {
+    "Symbol": "VGNT",
+    "Name": "Versigent PLC"
   },
   {
     "Symbol": "VHI",
@@ -10686,10 +10706,6 @@
   {
     "Symbol": "YALA",
     "Name": "Yalla Group Limited"
-  },
-  {
-    "Symbol": "YCY",
-    "Name": "AA Mission Acquisition Corp. II"
   },
   {
     "Symbol": "YELP",
