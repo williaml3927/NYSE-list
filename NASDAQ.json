@@ -324,10 +324,6 @@
     "Name": "Addex Therapeutics Ltd"
   },
   {
-    "Symbol": "AEAQ",
-    "Name": "Activate Energy Acquisition Corp."
-  },
-  {
     "Symbol": "AEBI",
     "Name": "Aebi Schmidt Holding AG"
   },
@@ -700,6 +696,10 @@
     "Name": "REalloys Inc."
   },
   {
+    "Symbol": "ALP",
+    "Name": "Alpha Compute Corp"
+  },
+  {
     "Symbol": "ALPS",
     "Name": "Alps Group Inc"
   },
@@ -844,10 +844,6 @@
     "Name": "AnaptysBio, Inc."
   },
   {
-    "Symbol": "ANABV",
-    "Name": "AnaptysBio, Inc."
-  },
-  {
     "Symbol": "ANDE",
     "Name": "The Andersons, Inc."
   },
@@ -921,6 +917,10 @@
   },
   {
     "Symbol": "APAC",
+    "Name": "StoneBridge Acquisition II Corporation"
+  },
+  {
+    "Symbol": "APACR",
     "Name": "StoneBridge Acquisition II Corporation"
   },
   {
@@ -1164,10 +1164,6 @@
     "Name": "A SPAC III Acquisition Corp."
   },
   {
-    "Symbol": "ASPCR",
-    "Name": "A SPAC III Acquisition Corp."
-  },
-  {
     "Symbol": "ASPI",
     "Name": "ASP Isotopes Inc."
   },
@@ -1298,10 +1294,6 @@
   {
     "Symbol": "ATOM",
     "Name": "Atomera Incorporated"
-  },
-  {
-    "Symbol": "ATON",
-    "Name": "AlphaTON Capital Corp."
   },
   {
     "Symbol": "ATOS",
@@ -1816,10 +1808,6 @@
     "Name": "BJ's Restaurants, Inc."
   },
   {
-    "Symbol": "BKHA",
-    "Name": "Black Hawk Acquisition Corporation"
-  },
-  {
     "Symbol": "BKNG",
     "Name": "Booking Holdings Inc."
   },
@@ -2021,6 +2009,10 @@
   },
   {
     "Symbol": "BPAC",
+    "Name": "Blueport Acquisition Ltd"
+  },
+  {
+    "Symbol": "BPACR",
     "Name": "Blueport Acquisition Ltd"
   },
   {
@@ -3112,10 +3104,6 @@
     "Name": "Columbus Acquisition Corp"
   },
   {
-    "Symbol": "COLAR",
-    "Name": "Columbus Acquisition Corp"
-  },
-  {
     "Symbol": "COLB",
     "Name": "Columbia Banking System, Inc."
   },
@@ -3221,6 +3209,10 @@
   },
   {
     "Symbol": "CRAQ",
+    "Name": "Cal Redwood Acquisition Corp."
+  },
+  {
+    "Symbol": "CRAQR",
     "Name": "Cal Redwood Acquisition Corp."
   },
   {
@@ -3620,10 +3612,6 @@
     "Name": "Dave Inc."
   },
   {
-    "Symbol": "DAWN",
-    "Name": "Day One Biopharmaceuticals, Inc."
-  },
-  {
     "Symbol": "DBCA",
     "Name": "D. Boral Acquisition I Corp."
   },
@@ -3674,6 +3662,10 @@
   {
     "Symbol": "DERM",
     "Name": "Journey Medical Corporation"
+  },
+  {
+    "Symbol": "DETX",
+    "Name": "Liberty Defense Holdings, Ltd."
   },
   {
     "Symbol": "DEVS",
@@ -3734,10 +3726,6 @@
   {
     "Symbol": "DHCNL",
     "Name": "Diversified Healthcare Trust"
-  },
-  {
-    "Symbol": "DHIL",
-    "Name": "Diamond Hill Investment Group, Inc."
   },
   {
     "Symbol": "DIBS",
@@ -3912,10 +3900,6 @@
     "Name": "Driven Brands Holdings Inc."
   },
   {
-    "Symbol": "DSAC",
-    "Name": "Daedalus Special Acquisition Corp."
-  },
-  {
     "Symbol": "DSGN",
     "Name": "Design Therapeutics, Inc."
   },
@@ -3953,6 +3937,10 @@
   },
   {
     "Symbol": "DTSQ",
+    "Name": "DT Cloud Star Acquisition Corporation"
+  },
+  {
+    "Symbol": "DTSQR",
     "Name": "DT Cloud Star Acquisition Corporation"
   },
   {
@@ -4162,6 +4150,10 @@
   {
     "Symbol": "ELE",
     "Name": "Elemental Royalty Corporation"
+  },
+  {
+    "Symbol": "ELMT",
+    "Name": "The Elmet Group Co. Common Stock"
   },
   {
     "Symbol": "ELOG",
@@ -4398,14 +4390,6 @@
   {
     "Symbol": "EUDA",
     "Name": "EUDA Health Holdings Limited"
-  },
-  {
-    "Symbol": "EURK",
-    "Name": "Eureka Acquisition Corp"
-  },
-  {
-    "Symbol": "EURKR",
-    "Name": "Eureka Acquisition Corp"
   },
   {
     "Symbol": "EVAX",
@@ -4764,6 +4748,10 @@
     "Name": "Figure Technology Solutions, Inc."
   },
   {
+    "Symbol": "FIGX",
+    "Name": "FIGX Capital Acquisition Corp."
+  },
+  {
     "Symbol": "FINW",
     "Name": "FinWise Bancorp"
   },
@@ -4902,6 +4890,10 @@
   {
     "Symbol": "FNLC",
     "Name": "The First Bancorp, Inc."
+  },
+  {
+    "Symbol": "FNRN",
+    "Name": "First Northern Community Bancorp Common stock"
   },
   {
     "Symbol": "FNUC",
@@ -5700,6 +5692,10 @@
     "Name": "Goosehead Insurance, Inc."
   },
   {
+    "Symbol": "GSHR",
+    "Name": "Gesher Acquisition Corp. II"
+  },
+  {
     "Symbol": "GSIT",
     "Name": "GSI Technology, Inc."
   },
@@ -5800,10 +5796,6 @@
     "Name": "Gyrodyne, LLC"
   },
   {
-    "Symbol": "HACQ",
-    "Name": "HCM IV Acquisition Corp."
-  },
-  {
     "Symbol": "HAFC",
     "Name": "Hanmi Financial Corporation"
   },
@@ -5825,10 +5817,6 @@
   },
   {
     "Symbol": "HAVA",
-    "Name": "Harvard Ave Acquisition Corporation"
-  },
-  {
-    "Symbol": "HAVAR",
     "Name": "Harvard Ave Acquisition Corporation"
   },
   {
@@ -6164,10 +6152,6 @@
     "Name": "HealthStream, Inc."
   },
   {
-    "Symbol": "HTBK",
-    "Name": "Heritage Commerce Corp"
-  },
-  {
     "Symbol": "HTCO",
     "Name": "High-Trend International Group"
   },
@@ -6420,10 +6404,6 @@
     "Name": "Infinite Eagle Acquisition Corp."
   },
   {
-    "Symbol": "IEAGR",
-    "Name": "Infinite Eagle Acquisition Corp."
-  },
-  {
     "Symbol": "IEP",
     "Name": "Icahn Enterprises L.P."
   },
@@ -6478,6 +6458,10 @@
   {
     "Symbol": "ILLR",
     "Name": "Triller Group Inc. Common Stock"
+  },
+  {
+    "Symbol": "ILLU",
+    "Name": "Illumination Acquisition Corp I"
   },
   {
     "Symbol": "ILMN",
@@ -6878,10 +6862,6 @@
   {
     "Symbol": "ISTR",
     "Name": "Investar Holding Corporation"
-  },
-  {
-    "Symbol": "ITHA",
-    "Name": "ITHAX Acquisition Corp III"
   },
   {
     "Symbol": "ITIC",
@@ -7396,6 +7376,10 @@
     "Name": "Standard BioTools Inc."
   },
   {
+    "Symbol": "LABT",
+    "Name": "Lakewood-Amedex Biotherapeutics Inc. Common Stock"
+  },
+  {
     "Symbol": "LAES",
     "Name": "SEALSQ Corp"
   },
@@ -7480,10 +7464,6 @@
     "Name": "Lakeshore Acquisition III Corp."
   },
   {
-    "Symbol": "LCCCR",
-    "Name": "Lakeshore Acquisition III Corp."
-  },
-  {
     "Symbol": "LCFY",
     "Name": "Locafy Limited"
   },
@@ -7534,6 +7514,10 @@
   {
     "Symbol": "LEXX",
     "Name": "Lexaria Bioscience Corp."
+  },
+  {
+    "Symbol": "LFAC",
+    "Name": "Leapfrog Acquisition Corporation"
   },
   {
     "Symbol": "LFCR",
@@ -8400,10 +8384,6 @@
     "Name": "Mountain Lake Acquisition Corp."
   },
   {
-    "Symbol": "MLACR",
-    "Name": "Mountain Lake Acquisition Corp."
-  },
-  {
     "Symbol": "MLCI",
     "Name": "Mount Logan Capital Inc."
   },
@@ -8832,10 +8812,6 @@
     "Name": "NovaBridge Biosciences"
   },
   {
-    "Symbol": "NBRG",
-    "Name": "Newbridge Acquisition Limited"
-  },
-  {
     "Symbol": "NBRGR",
     "Name": "Newbridge Acquisition Limited"
   },
@@ -8964,6 +8940,10 @@
     "Name": "NewtekOne, Inc. 8.00% Fixed Rate Senior Notes due 2028"
   },
   {
+    "Symbol": "NEWTO",
+    "Name": "NewtekOne"
+  },
+  {
     "Symbol": "NEWTP",
     "Name": "NewtekOne, Inc."
   },
@@ -9006,6 +8986,10 @@
   {
     "Symbol": "NHIC",
     "Name": "NewHold Investment Corp III"
+  },
+  {
+    "Symbol": "NHP",
+    "Name": "National Healthcare Properties, Inc."
   },
   {
     "Symbol": "NHPAP",
@@ -9732,6 +9716,10 @@
     "Name": "Orion Digital Corp."
   },
   {
+    "Symbol": "ORIQ",
+    "Name": "Origin Investment Corp I"
+  },
+  {
     "Symbol": "ORIS",
     "Name": "Oriental Rise Holdings Limited"
   },
@@ -10149,10 +10137,6 @@
   },
   {
     "Symbol": "PGAC",
-    "Name": "Pantages Capital Acquisition Corporation"
-  },
-  {
-    "Symbol": "PGACR",
     "Name": "Pantages Capital Acquisition Corporation"
   },
   {
@@ -10716,10 +10700,6 @@
     "Name": "Quartzsea Acquisition Corporation"
   },
   {
-    "Symbol": "QSEAR",
-    "Name": "Quartzsea Acquisition Corporation"
-  },
-  {
     "Symbol": "QSI",
     "Name": "Quantum-Si incorporated"
   },
@@ -10752,20 +10732,8 @@
     "Name": "Quantumsphere Acquisition Corporation"
   },
   {
-    "Symbol": "QUMSR",
-    "Name": "Quantumsphere Acquisition Corporation"
-  },
-  {
     "Symbol": "QURE",
     "Name": "uniQure N.V."
-  },
-  {
-    "Symbol": "QVCGA",
-    "Name": "QVC Group Inc."
-  },
-  {
-    "Symbol": "QVCGP",
-    "Name": "QVC Group Inc."
   },
   {
     "Symbol": "RAAQ",
@@ -10869,10 +10837,6 @@
   },
   {
     "Symbol": "RDAC",
-    "Name": "Rising Dragon Acquisition Corp."
-  },
-  {
-    "Symbol": "RDACR",
     "Name": "Rising Dragon Acquisition Corp."
   },
   {
@@ -11012,10 +10976,6 @@
     "Name": "RF Acquisition Corp III"
   },
   {
-    "Symbol": "RFAMR",
-    "Name": "RF Acquisition Corp III"
-  },
-  {
     "Symbol": "RFIL",
     "Name": "RF Industries, Ltd."
   },
@@ -11053,10 +11013,6 @@
   },
   {
     "Symbol": "RIBB",
-    "Name": "Ribbon Acquisition Corp."
-  },
-  {
-    "Symbol": "RIBBR",
     "Name": "Ribbon Acquisition Corp."
   },
   {
@@ -11557,10 +11513,6 @@
   },
   {
     "Symbol": "SDHI",
-    "Name": "Siddhi Acquisition Corp."
-  },
-  {
-    "Symbol": "SDHIR",
     "Name": "Siddhi Acquisition Corp."
   },
   {
@@ -12080,18 +12032,6 @@
     "Name": "Sound Group Inc."
   },
   {
-    "Symbol": "SOHOB",
-    "Name": "Sotherly Hotels Inc."
-  },
-  {
-    "Symbol": "SOHON",
-    "Name": "Sotherly Hotels Inc."
-  },
-  {
-    "Symbol": "SOHOO",
-    "Name": "Sotherly Hotels Inc."
-  },
-  {
     "Symbol": "SOHU",
     "Name": "Sohu.com Limited"
   },
@@ -12257,10 +12197,6 @@
   },
   {
     "Symbol": "SSEA",
-    "Name": "Starry Sea Acquisition Corp"
-  },
-  {
-    "Symbol": "SSEAR",
     "Name": "Starry Sea Acquisition Corp"
   },
   {
@@ -12438,6 +12374,14 @@
   {
     "Symbol": "SUIS",
     "Name": "Canary Staked SUI ETF"
+  },
+  {
+    "Symbol": "SUMA",
+    "Name": "SUMA Acquisition Corporation"
+  },
+  {
+    "Symbol": "SUMAR",
+    "Name": "SUMA Acquisition Corporation"
   },
   {
     "Symbol": "SUNE",
@@ -12714,10 +12658,6 @@
   {
     "Symbol": "TDUP",
     "Name": "ThredUp Inc."
-  },
-  {
-    "Symbol": "TDWD",
-    "Name": "Tailwind 2.0 Acquisition Corp."
   },
   {
     "Symbol": "TDWDR",
@@ -13000,7 +12940,7 @@
     "Name": "Traws Pharma, Inc."
   },
   {
-    "Symbol": "TRAXV",
+    "Symbol": "TRAX",
     "Name": "First Tracks Biotherapeutics, Inc."
   },
   {
@@ -13010,6 +12950,14 @@
   {
     "Symbol": "TREE",
     "Name": "LendingTree, Inc."
+  },
+  {
+    "Symbol": "TRGS",
+    "Name": "TRG Latin America Acquisitions Corp."
+  },
+  {
+    "Symbol": "TRGSR",
+    "Name": "TRG Latin America Acquisitions Corp."
   },
   {
     "Symbol": "TRI",
@@ -13217,10 +13165,6 @@
   },
   {
     "Symbol": "TWLV",
-    "Name": "Twelve Seas Investment Company III"
-  },
-  {
-    "Symbol": "TWLVR",
     "Name": "Twelve Seas Investment Company III"
   },
   {
@@ -14188,6 +14132,10 @@
     "Name": "Exicure, Inc."
   },
   {
+    "Symbol": "XE",
+    "Name": "X-Energy, Inc. Class A Common Stock"
+  },
+  {
     "Symbol": "XEL",
     "Name": "Xcel Energy Inc."
   },
@@ -14344,6 +14292,10 @@
     "Name": "YHN Acquisition I Limited"
   },
   {
+    "Symbol": "YHNAR",
+    "Name": "YHN Acquisition I Limited"
+  },
+  {
     "Symbol": "YI",
     "Name": "111, Inc."
   },
@@ -14378,6 +14330,10 @@
   {
     "Symbol": "YQ",
     "Name": "17 Education & Technology Group Inc."
+  },
+  {
+    "Symbol": "YSWY",
+    "Name": "Yesway, Inc."
   },
   {
     "Symbol": "YSXT",
@@ -14465,10 +14421,6 @@
   },
   {
     "Symbol": "ZKP",
-    "Name": "Lafayette Digital Acquisition Corp. I"
-  },
-  {
-    "Symbol": "ZKPU",
     "Name": "Lafayette Digital Acquisition Corp. I"
   },
   {

@@ -480,10 +480,6 @@
     "Name": "ALTG^A"
   },
   {
-    "Symbol": "ALUB",
-    "Name": "Alussa Energy Acquisition Corp. II"
-  },
-  {
     "Symbol": "ALV",
     "Name": "Autoliv, Inc."
   },
@@ -798,10 +794,6 @@
   {
     "Symbol": "ASGI",
     "Name": "Abrdn Global Infrastructure Income Fund"
-  },
-  {
-    "Symbol": "ASGN",
-    "Name": "ASGN Incorporated"
   },
   {
     "Symbol": "ASH",
@@ -3292,6 +3284,10 @@
     "Name": "EFC^D"
   },
   {
+    "Symbol": "EFOR",
+    "Name": "Everforth"
+  },
+  {
     "Symbol": "EFR",
     "Name": "Eaton Vance Senior Floating-Rate Trust"
   },
@@ -3310,10 +3306,6 @@
   {
     "Symbol": "EG",
     "Name": "Everest Group, Ltd."
-  },
-  {
-    "Symbol": "EGO",
-    "Name": "Eldorado Gold Corporation"
   },
   {
     "Symbol": "EGP",
@@ -5172,10 +5164,6 @@
     "Name": "Ingersoll Rand Inc."
   },
   {
-    "Symbol": "IRAB",
-    "Name": "Iris Acquisition Corp II"
-  },
-  {
     "Symbol": "IRM",
     "Name": "Iron Mountain Incorporated"
   },
@@ -5250,10 +5238,6 @@
   {
     "Symbol": "JBI",
     "Name": "Janus International Group, Inc."
-  },
-  {
-    "Symbol": "JBK",
-    "Name": "Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6 04-6 A1 3.50"
   },
   {
     "Symbol": "JBL",
@@ -7852,10 +7836,6 @@
     "Name": "PRIF^D"
   },
   {
-    "Symbol": "PRIF^J",
-    "Name": "PRIF^J"
-  },
-  {
     "Symbol": "PRIF^K",
     "Name": "PRIF^K"
   },
@@ -8105,10 +8085,6 @@
   },
   {
     "Symbol": "RC",
-    "Name": "Ready Capital Corporation"
-  },
-  {
-    "Symbol": "RCB",
     "Name": "Ready Capital Corporation"
   },
   {
@@ -8530,6 +8506,10 @@
   {
     "Symbol": "SABA",
     "Name": "Saba Capital Income & Opportunities Fund II"
+  },
+  {
+    "Symbol": "SAC",
+    "Name": "Safeguard Acquisition Corp."
   },
   {
     "Symbol": "SAFE",
@@ -9636,6 +9616,10 @@
     "Name": "Tootsie Roll Industries, Inc."
   },
   {
+    "Symbol": "TRAD",
+    "Name": "APEX Tech Acquisition Inc."
+  },
+  {
     "Symbol": "TRAK",
     "Name": "ReposiTrak, Inc."
   },
@@ -10706,6 +10690,10 @@
   {
     "Symbol": "YALA",
     "Name": "Yalla Group Limited"
+  },
+  {
+    "Symbol": "YCY",
+    "Name": "AA Mission Acquisition Corp. II"
   },
   {
     "Symbol": "YELP",
