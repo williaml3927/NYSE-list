@@ -288,6 +288,10 @@
     "Name": "ECF^A"
   },
   {
+    "Symbol": "EGG",
+    "Name": "Enigmatig Limited"
+  },
+  {
     "Symbol": "EIM",
     "Name": "Eaton Vance Municipal Bond Fund"
   },
@@ -414,6 +418,10 @@
   {
     "Symbol": "GLU",
     "Name": "The Gabelli Global Utility & Income Trust"
+  },
+  {
+    "Symbol": "GLU^A",
+    "Name": "GLU^A"
   },
   {
     "Symbol": "GLU^B",
@@ -930,6 +938,10 @@
   {
     "Symbol": "SBEV",
     "Name": "Splash Beverage Group, Inc."
+  },
+  {
+    "Symbol": "SBMT",
+    "Name": "Silver Bow Mining Corp."
   },
   {
     "Symbol": "SCCD",

@@ -1380,10 +1380,6 @@
     "Name": "Biohaven Ltd."
   },
   {
-    "Symbol": "BIII",
-    "Name": "Black Spade Acquisition III Co"
-  },
-  {
     "Symbol": "BILL",
     "Name": "BILL Holdings, Inc."
   },
@@ -3836,10 +3832,6 @@
     "Name": "First Horizon Corporation"
   },
   {
-    "Symbol": "FHN^C",
-    "Name": "FHN^C"
-  },
-  {
     "Symbol": "FHN^E",
     "Name": "FHN^E"
   },
@@ -4302,10 +4294,6 @@
   {
     "Symbol": "GJH",
     "Name": "STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375"
-  },
-  {
-    "Symbol": "GJO",
-    "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
   },
   {
     "Symbol": "GJP",
@@ -5164,6 +5152,10 @@
     "Name": "Ingersoll Rand Inc."
   },
   {
+    "Symbol": "IRAB",
+    "Name": "Iris Acquisition Corp II"
+  },
+  {
     "Symbol": "IRM",
     "Name": "Iron Mountain Incorporated"
   },
@@ -5238,6 +5230,10 @@
   {
     "Symbol": "JBI",
     "Name": "Janus International Group, Inc."
+  },
+  {
+    "Symbol": "JBK",
+    "Name": "Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6 04-6 A1 3.50"
   },
   {
     "Symbol": "JBL",
@@ -6584,6 +6580,10 @@
     "Name": "BlackRock MuniYield New York Quality Fund, Inc."
   },
   {
+    "Symbol": "MZYX",
+    "Name": "MOZAYYX Acquisition Corp."
+  },
+  {
     "Symbol": "NABL",
     "Name": "N-able, Inc."
   },
@@ -6884,10 +6884,6 @@
     "Name": "Nokia Oyj"
   },
   {
-    "Symbol": "NOM",
-    "Name": "Nuveen Missouri Quality Municipal Income Fund"
-  },
-  {
     "Symbol": "NOMD",
     "Name": "Nomad Foods Limited"
   },
@@ -6934,10 +6930,6 @@
   {
     "Symbol": "NPWR",
     "Name": "NET Power Inc."
-  },
-  {
-    "Symbol": "NQP",
-    "Name": "Nuveen Pennsylvania Quality Municipal Income Fund"
   },
   {
     "Symbol": "NRDY",
@@ -7102,10 +7094,6 @@
   {
     "Symbol": "NXG",
     "Name": "NXG NextGen Infrastructure Income Fund"
-  },
-  {
-    "Symbol": "NXJ",
-    "Name": "Nuveen New Jersey Quality Municipal Income Fund"
   },
   {
     "Symbol": "NXP",
@@ -7880,6 +7868,10 @@
     "Name": "Prudential Financial, Inc."
   },
   {
+    "Symbol": "PS",
+    "Name": "Pershing Square Inc."
+  },
+  {
     "Symbol": "PSA",
     "Name": "Public Storage"
   },
@@ -7970,6 +7962,10 @@
   {
     "Symbol": "PSTL",
     "Name": "Postal Realty Trust, Inc."
+  },
+  {
+    "Symbol": "PSUS",
+    "Name": "Pershing Square USA, Ltd."
   },
   {
     "Symbol": "PSX",
@@ -8686,10 +8682,6 @@
   {
     "Symbol": "SEM",
     "Name": "Select Medical Holdings Corporation"
-  },
-  {
-    "Symbol": "SEMR",
-    "Name": "Semrush Holdings, Inc."
   },
   {
     "Symbol": "SES",
