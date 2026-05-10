@@ -48,6 +48,10 @@
     "Name": "Alpha Pro Tech, Ltd."
   },
   {
+    "Symbol": "APUS",
+    "Name": "Apimeds Pharmaceuticals US, Inc."
+  },
+  {
     "Symbol": "AREN",
     "Name": "The Arena Group Holdings, Inc."
   },
@@ -288,10 +292,6 @@
     "Name": "ECF^A"
   },
   {
-    "Symbol": "EGG",
-    "Name": "Enigmatig Limited"
-  },
-  {
     "Symbol": "EIM",
     "Name": "Eaton Vance Municipal Bond Fund"
   },
@@ -422,10 +422,6 @@
   {
     "Symbol": "GLU^A",
     "Name": "GLU^A"
-  },
-  {
-    "Symbol": "GLU^B",
-    "Name": "GLU^B"
   },
   {
     "Symbol": "GLV",
@@ -896,6 +892,10 @@
     "Name": "RENN Fund, Inc."
   },
   {
+    "Symbol": "REA",
+    "Name": "Rare Earths Americas, Inc."
+  },
+  {
     "Symbol": "REED",
     "Name": "Reed's, Inc."
   },
@@ -1074,10 +1074,6 @@
   {
     "Symbol": "TRX",
     "Name": "TRX Gold Corporation"
-  },
-  {
-    "Symbol": "UAC",
-    "Name": "United Acquisition Corp. I"
   },
   {
     "Symbol": "UAVS",

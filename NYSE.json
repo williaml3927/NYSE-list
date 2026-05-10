@@ -2612,10 +2612,6 @@
     "Name": "CTO^A"
   },
   {
-    "Symbol": "CTRA",
-    "Name": "Coterra Energy Inc."
-  },
-  {
     "Symbol": "CTRE",
     "Name": "CareTrust REIT, Inc."
   },
@@ -2642,10 +2638,6 @@
   {
     "Symbol": "CUBI",
     "Name": "Customers Bancorp, Inc."
-  },
-  {
-    "Symbol": "CUK",
-    "Name": "Carnival Corporation & plc"
   },
   {
     "Symbol": "CURB",
@@ -3204,14 +3196,6 @@
     "Name": "Eagle Point Credit Company Inc."
   },
   {
-    "Symbol": "ECCW",
-    "Name": "Eagle Point Credit Company Inc."
-  },
-  {
-    "Symbol": "ECCX",
-    "Name": "Eagle Point Credit Company Inc. 6.6875% NT 28"
-  },
-  {
     "Symbol": "ECC^D",
     "Name": "ECC^D"
   },
@@ -3302,6 +3286,10 @@
   {
     "Symbol": "EG",
     "Name": "Everest Group, Ltd."
+  },
+  {
+    "Symbol": "EGO",
+    "Name": "Eldorado Gold Corporation"
   },
   {
     "Symbol": "EGP",
@@ -3418,6 +3406,10 @@
   {
     "Symbol": "ENB",
     "Name": "Enbridge Inc."
+  },
+  {
+    "Symbol": "ENHA",
+    "Name": "ENHA"
   },
   {
     "Symbol": "ENIC",
@@ -4308,10 +4300,6 @@
     "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
   },
   {
-    "Symbol": "GJT",
-    "Name": "Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD"
-  },
-  {
     "Symbol": "GKOS",
     "Name": "Glaukos Corporation"
   },
@@ -4606,6 +4594,10 @@
   {
     "Symbol": "HASI",
     "Name": "HA Sustainable Infrastructure Capital, Inc."
+  },
+  {
+    "Symbol": "HAWK",
+    "Name": "HawkEye 360, Inc."
   },
   {
     "Symbol": "HAYW",
@@ -6068,10 +6060,6 @@
     "Name": "Medifast, Inc."
   },
   {
-    "Symbol": "MEG",
-    "Name": "Montrose Environmental Group, Inc."
-  },
-  {
     "Symbol": "MEGI",
     "Name": "NYLI CBRE Global Infrastructure Megatrends Term Fund"
   },
@@ -7232,6 +7220,10 @@
     "Name": "On Holding AG"
   },
   {
+    "Symbol": "ONT",
+    "Name": "Onterris, Inc."
+  },
+  {
     "Symbol": "ONTO",
     "Name": "Onto Innovation Inc."
   },
@@ -7668,10 +7660,6 @@
     "Name": "Packaging Corporation of America"
   },
   {
-    "Symbol": "PKST",
-    "Name": "Peakstone Realty Trust"
-  },
-  {
     "Symbol": "PKX",
     "Name": "POSCO Holdings Inc."
   },
@@ -8018,6 +8006,10 @@
   {
     "Symbol": "QGEN",
     "Name": "Qiagen N.V."
+  },
+  {
+    "Symbol": "QRED",
+    "Name": "Quasaredge Acquisition Corporation"
   },
   {
     "Symbol": "QSR",
