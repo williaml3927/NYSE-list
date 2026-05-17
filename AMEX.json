@@ -292,6 +292,10 @@
     "Name": "ECF^A"
   },
   {
+    "Symbol": "EGG",
+    "Name": "Enigmatig Limited"
+  },
+  {
     "Symbol": "EIM",
     "Name": "Eaton Vance Municipal Bond Fund"
   },
@@ -420,8 +424,8 @@
     "Name": "The Gabelli Global Utility & Income Trust"
   },
   {
-    "Symbol": "GLU^A",
-    "Name": "GLU^A"
+    "Symbol": "GLU^B",
+    "Name": "GLU^B"
   },
   {
     "Symbol": "GLV",
@@ -764,10 +768,6 @@
     "Name": "OptimumBank Holdings, Inc."
   },
   {
-    "Symbol": "OPP^C",
-    "Name": "OPP^C"
-  },
-  {
     "Symbol": "OPTT",
     "Name": "Ocean Power Technologies, Inc."
   },
@@ -1076,6 +1076,10 @@
     "Name": "TRX Gold Corporation"
   },
   {
+    "Symbol": "UAC",
+    "Name": "United Acquisition Corp. I"
+  },
+  {
     "Symbol": "UAVS",
     "Name": "AgEagle Aerial Systems, Inc."
   },
@@ -1122,6 +1126,10 @@
   {
     "Symbol": "VGZ",
     "Name": "Vista Gold Corp."
+  },
+  {
+    "Symbol": "VIDA",
+    "Name": "VIDA Global Inc."
   },
   {
     "Symbol": "VKI",
