@@ -288,6 +288,10 @@
     "Name": "AGM^H"
   },
   {
+    "Symbol": "AGM^I",
+    "Name": "AGM^I"
+  },
+  {
     "Symbol": "AGO",
     "Name": "Assured Guaranty Ltd."
   },
@@ -1444,10 +1448,6 @@
     "Name": "BJ's Wholesale Club Holdings, Inc."
   },
   {
-    "Symbol": "BK",
-    "Name": "The Bank of New York Mellon Corporation"
-  },
-  {
     "Symbol": "BKD",
     "Name": "Brookdale Senior Living Inc."
   },
@@ -1478,10 +1478,6 @@
   {
     "Symbol": "BKV",
     "Name": "BKV Corporation"
-  },
-  {
-    "Symbol": "BK^K",
-    "Name": "BK^K"
   },
   {
     "Symbol": "BLCO",
@@ -1590,6 +1586,14 @@
   {
     "Symbol": "BNT",
     "Name": "Brookfield Wealth Solutions Ltd."
+  },
+  {
+    "Symbol": "BNY",
+    "Name": "The Bank of New York Mellon Cor"
+  },
+  {
+    "Symbol": "BNY^K",
+    "Name": "BNY^K"
   },
   {
     "Symbol": "BOBS",
@@ -4288,14 +4292,6 @@
     "Name": "STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375"
   },
   {
-    "Symbol": "GJO",
-    "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
-  },
-  {
-    "Symbol": "GJP",
-    "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
-  },
-  {
     "Symbol": "GJR",
     "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
   },
@@ -4314,10 +4310,6 @@
   {
     "Symbol": "GL",
     "Name": "Globe Life Inc."
-  },
-  {
-    "Symbol": "GLED",
-    "Name": "GalaxyEdge Acquisition Corporation"
   },
   {
     "Symbol": "GLOB",
@@ -5456,10 +5448,6 @@
     "Name": "Kforce Inc."
   },
   {
-    "Symbol": "KFS",
-    "Name": "Kingsway Financial Services Inc."
-  },
-  {
     "Symbol": "KFY",
     "Name": "Korn Ferry"
   },
@@ -5584,6 +5572,10 @@
     "Name": "Kosmos Energy Ltd."
   },
   {
+    "Symbol": "KPET",
+    "Name": "KPET Ultra Paceline Corporation"
+  },
+  {
     "Symbol": "KR",
     "Name": "The Kroger Co."
   },
@@ -5660,6 +5652,10 @@
     "Name": "Quaker Chemical Corporation"
   },
   {
+    "Symbol": "KWY",
+    "Name": "Kingsway Corporation"
+  },
+  {
     "Symbol": "KYN",
     "Name": "Kayne Anderson Energy Infrastructure Fund, Inc."
   },
@@ -5710,6 +5706,10 @@
   {
     "Symbol": "LCII",
     "Name": "LCI Industries"
+  },
+  {
+    "Symbol": "LCLN",
+    "Name": "Lincoln International, Inc."
   },
   {
     "Symbol": "LDI",
@@ -8516,6 +8516,10 @@
     "Name": "Safehold Inc."
   },
   {
+    "Symbol": "SAGU",
+    "Name": "Shreya Acquisition Group"
+  },
+  {
     "Symbol": "SAH",
     "Name": "Sonic Automotive, Inc."
   },
@@ -10074,6 +10078,10 @@
   {
     "Symbol": "VCX",
     "Name": "Fundrise Growth Tech Fund, LLC"
+  },
+  {
+    "Symbol": "VECA",
+    "Name": "Vernal Capital Acquisition Corp."
   },
   {
     "Symbol": "VEEV",

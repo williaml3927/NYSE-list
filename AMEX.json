@@ -356,10 +356,6 @@
     "Name": "Abrdn Asia-Pacific Income Fund Inc"
   },
   {
-    "Symbol": "FCO",
-    "Name": "abrdn Global Income Fund, Inc."
-  },
-  {
     "Symbol": "FJET",
     "Name": "Starfighters Space, Inc."
   },
@@ -422,10 +418,6 @@
   {
     "Symbol": "GLU",
     "Name": "The Gabelli Global Utility & Income Trust"
-  },
-  {
-    "Symbol": "GLU^B",
-    "Name": "GLU^B"
   },
   {
     "Symbol": "GLV",
@@ -766,6 +758,10 @@
   {
     "Symbol": "OPHC",
     "Name": "OptimumBank Holdings, Inc."
+  },
+  {
+    "Symbol": "OPP^C",
+    "Name": "OPP^C"
   },
   {
     "Symbol": "OPTT",
