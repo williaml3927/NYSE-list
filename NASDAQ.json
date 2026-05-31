@@ -16,6 +16,18 @@
     "Name": "Armada Acquisition Corp. III"
   },
   {
+    "Symbol": "AACO",
+    "Name": "Abony Acquisition Corp. I"
+  },
+  {
+    "Symbol": "AACP",
+    "Name": "Apogee Acquisition Corp Class A Ordinary Shares"
+  },
+  {
+    "Symbol": "AACPR",
+    "Name": "Apogee Acquisition Corp Rights"
+  },
+  {
     "Symbol": "AAL",
     "Name": "American Airlines Group Inc."
   },
@@ -122,6 +134,10 @@
   {
     "Symbol": "ACFN",
     "Name": "Acorn Energy, Inc."
+  },
+  {
+    "Symbol": "ACGC",
+    "Name": "ACP Holdings Acquisition Corp. Class A Ordinary Shares"
   },
   {
     "Symbol": "ACGL",
@@ -396,10 +412,6 @@
     "Name": "Afya Limited"
   },
   {
-    "Symbol": "AGAE",
-    "Name": "Allied Gaming & Entertainment Inc."
-  },
-  {
     "Symbol": "AGCC",
     "Name": "Agencia Comercial Spirits Ltd"
   },
@@ -482,6 +494,10 @@
   {
     "Symbol": "AIDX",
     "Name": "20/20 Biolabs, Inc."
+  },
+  {
+    "Symbol": "AIFA",
+    "Name": "All In FutureTech Alliance Inc."
   },
   {
     "Symbol": "AIFC",
@@ -692,6 +708,10 @@
     "Name": "AstroNova, Inc."
   },
   {
+    "Symbol": "ALOV",
+    "Name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc."
+  },
+  {
     "Symbol": "ALOY",
     "Name": "REalloys Inc."
   },
@@ -834,10 +854,6 @@
   {
     "Symbol": "AMTX",
     "Name": "Aemetis, Inc."
-  },
-  {
-    "Symbol": "AMWD",
-    "Name": "American Woodmark Corporation"
   },
   {
     "Symbol": "AMZN",
@@ -1038,6 +1054,14 @@
   {
     "Symbol": "ARCI",
     "Name": "Archimedes Tech SPAC Partners III Co."
+  },
+  {
+    "Symbol": "ARCL",
+    "Name": "ARC Group Acquisition I Corp Class A Ordinary Shares"
+  },
+  {
+    "Symbol": "ARCLR",
+    "Name": "ARC Group Acquisition I Corp Right"
   },
   {
     "Symbol": "ARCT",
@@ -2032,6 +2056,10 @@
     "Name": "Blueport Acquisition Ltd"
   },
   {
+    "Symbol": "BPACR",
+    "Name": "Blueport Acquisition Ltd"
+  },
+  {
     "Symbol": "BPOP",
     "Name": "Popular, Inc."
   },
@@ -2170,10 +2198,6 @@
   {
     "Symbol": "BTDR",
     "Name": "Bitdeer Technologies Group"
-  },
-  {
-    "Symbol": "BTM",
-    "Name": "Bitcoin Depot Inc."
   },
   {
     "Symbol": "BTMD",
@@ -2344,6 +2368,10 @@
     "Name": "Canaan Inc."
   },
   {
+    "Symbol": "CAPN",
+    "Name": "Cayson Acquisition Corp"
+  },
+  {
     "Symbol": "CAPNR",
     "Name": "Cayson Acquisition Corp"
   },
@@ -2446,6 +2474,10 @@
   {
     "Symbol": "CCAP",
     "Name": "Crescent Capital BDC, Inc."
+  },
+  {
+    "Symbol": "CCAQ",
+    "Name": "Collective Acquisition Corp."
   },
   {
     "Symbol": "CCB",
@@ -2746,6 +2778,10 @@
   {
     "Symbol": "CHDN",
     "Name": "Churchill Downs Incorporated"
+  },
+  {
+    "Symbol": "CHEC",
+    "Name": "Chenghe Acquisition III Co."
   },
   {
     "Symbol": "CHEF",
@@ -3408,6 +3444,10 @@
     "Name": "CSX Corporation"
   },
   {
+    "Symbol": "CTAA",
+    "Name": "ClearThink 1 Acquisition Corp. Class A Ordinary Shares"
+  },
+  {
     "Symbol": "CTAAR",
     "Name": "ClearThink 1 Acquisition Corp. Rights"
   },
@@ -3506,10 +3546,6 @@
   {
     "Symbol": "CVGI",
     "Name": "Commercial Vehicle Group, Inc."
-  },
-  {
-    "Symbol": "CVGW",
-    "Name": "Calavo Growers, Inc."
   },
   {
     "Symbol": "CVKD",
@@ -4132,10 +4168,6 @@
     "Name": "Eagle Bancorp, Inc."
   },
   {
-    "Symbol": "EGHA",
-    "Name": "EGH Acquisition Corp."
-  },
-  {
     "Symbol": "EH",
     "Name": "EHang Holdings Limited"
   },
@@ -4226,6 +4258,10 @@
   {
     "Symbol": "EMBC",
     "Name": "Embecta Corp."
+  },
+  {
+    "Symbol": "EMIS",
+    "Name": "Emmis Acquisition Corp."
   },
   {
     "Symbol": "EMISR",
@@ -4872,10 +4908,6 @@
     "Name": "Future Money Acquisition Corporation"
   },
   {
-    "Symbol": "FMACR",
-    "Name": "Future Money Acquisition Corporation"
-  },
-  {
     "Symbol": "FMAO",
     "Name": "Farmers & Merchants Bancorp, Inc."
   },
@@ -5164,6 +5196,10 @@
     "Name": "Future Vision II Acquisition Corp."
   },
   {
+    "Symbol": "FVNNR",
+    "Name": "Future Vision II Acquisition Corp."
+  },
+  {
     "Symbol": "FWDI",
     "Name": "Forward Industries, Inc."
   },
@@ -5312,10 +5348,6 @@
     "Name": "Great Elm Capital Corp. 8.50% NOTES DUE 2029"
   },
   {
-    "Symbol": "GECCO",
-    "Name": "Great Elm Capital Corp. 5.875% Notes due 2026"
-  },
-  {
     "Symbol": "GEG",
     "Name": "Great Elm Group, Inc."
   },
@@ -5398,10 +5430,6 @@
   {
     "Symbol": "GIFT",
     "Name": "Giftify, Inc."
-  },
-  {
-    "Symbol": "GIG",
-    "Name": "GigCapital7 Corp."
   },
   {
     "Symbol": "GIGM",
@@ -5824,10 +5852,6 @@
     "Name": "Harvard Ave Acquisition Corporation"
   },
   {
-    "Symbol": "HAVAR",
-    "Name": "Harvard Ave Acquisition Corporation"
-  },
-  {
     "Symbol": "HBAN",
     "Name": "Huntington Bancshares Incorporated"
   },
@@ -5869,10 +5893,6 @@
   },
   {
     "Symbol": "HCAC",
-    "Name": "Hall Chadwick Acquisition Corp."
-  },
-  {
-    "Symbol": "HCACR",
     "Name": "Hall Chadwick Acquisition Corp."
   },
   {
@@ -5922,6 +5942,10 @@
   {
     "Symbol": "HDL",
     "Name": "Super Hi International Holding Ltd."
+  },
+  {
+    "Symbol": "HDRN",
+    "Name": "Hadron Energy"
   },
   {
     "Symbol": "HDSN",
@@ -6070,10 +6094,6 @@
   {
     "Symbol": "HOPE",
     "Name": "Hope Bancorp, Inc."
-  },
-  {
-    "Symbol": "HOTH",
-    "Name": "Hoth Therapeutics, Inc."
   },
   {
     "Symbol": "HOUR",
@@ -6436,10 +6456,6 @@
     "Name": "Invest Green Acquisition Corporation"
   },
   {
-    "Symbol": "IGACR",
-    "Name": "Invest Green Acquisition Corporation"
-  },
-  {
     "Symbol": "IGIC",
     "Name": "International General Insurance Holdings Ltd."
   },
@@ -6466,6 +6482,10 @@
   {
     "Symbol": "ILLR",
     "Name": "Triller Group Inc. Common Stock"
+  },
+  {
+    "Symbol": "ILLU",
+    "Name": "Illumination Acquisition Corp I"
   },
   {
     "Symbol": "ILMN",
@@ -6760,6 +6780,10 @@
     "Name": "Inflection Point Acquisition Corp. V"
   },
   {
+    "Symbol": "IPFX",
+    "Name": "Inflection Point Acquisition Corp. VI"
+  },
+  {
     "Symbol": "IPGP",
     "Name": "IPG Photonics Corporation"
   },
@@ -6770,10 +6794,6 @@
   {
     "Symbol": "IPM",
     "Name": "Intelligent Protection Management Corp."
-  },
-  {
-    "Symbol": "IPOD",
-    "Name": "Dune Acquisition Corporation II"
   },
   {
     "Symbol": "IPSC",
@@ -7116,6 +7136,10 @@
     "Name": "Kochav Defense Acquisition Corp."
   },
   {
+    "Symbol": "KCHVR",
+    "Name": "Kochav Defense Acquisition Corp."
+  },
+  {
     "Symbol": "KDK",
     "Name": "Kodiak AI, Inc."
   },
@@ -7324,10 +7348,6 @@
     "Name": "K2 Capital Acquisition Corporation"
   },
   {
-    "Symbol": "KTWOR",
-    "Name": "K2 Capital Acquisition Corporation"
-  },
-  {
     "Symbol": "KURA",
     "Name": "Kura Oncology, Inc."
   },
@@ -7422,6 +7442,10 @@
   {
     "Symbol": "LASR",
     "Name": "nLIGHT, Inc."
+  },
+  {
+    "Symbol": "LATA",
+    "Name": "Galata Acquisition Corp. II"
   },
   {
     "Symbol": "LAUR",
@@ -9468,8 +9492,8 @@
     "Name": "Oaktree Specialty Lending Corporation"
   },
   {
-    "Symbol": "OCTVV",
-    "Name": "Octave Intelligence plc Class B Ordinary Shares When Issued"
+    "Symbol": "OCTV",
+    "Name": "Octave Intelligence plc"
   },
   {
     "Symbol": "OCUL",
@@ -9894,6 +9918,10 @@
   {
     "Symbol": "PAA",
     "Name": "Plains All American Pipeline, L.P."
+  },
+  {
+    "Symbol": "PAAC",
+    "Name": "Proem Acquisition Corp I"
   },
   {
     "Symbol": "PACB",
@@ -10464,6 +10492,10 @@
     "Name": "Presurance Holdings, Inc."
   },
   {
+    "Symbol": "PRHIZ",
+    "Name": "Presurance Holdings, Inc."
+  },
+  {
     "Symbol": "PRLD",
     "Name": "Prelude Therapeutics Incorporated"
   },
@@ -10584,6 +10616,10 @@
     "Name": "Portillo's Inc."
   },
   {
+    "Symbol": "PTN",
+    "Name": "Palatin Technologies, Inc."
+  },
+  {
     "Symbol": "PTON",
     "Name": "Peloton Interactive, Inc."
   },
@@ -10618,6 +10654,10 @@
   {
     "Symbol": "PWP",
     "Name": "Perella Weinberg Partners"
+  },
+  {
+    "Symbol": "PWRL",
+    "Name": "Powerlaw Corp."
   },
   {
     "Symbol": "PXLW",
@@ -10668,12 +10708,12 @@
     "Name": "Quetta Acquisition Corporation"
   },
   {
-    "Symbol": "QETAR",
-    "Name": "Quetta Acquisition Corporation"
-  },
-  {
     "Symbol": "QFIN",
     "Name": "Qfin Holdings, Inc."
+  },
+  {
+    "Symbol": "QH",
+    "Name": "Quhuo Limited"
   },
   {
     "Symbol": "QLYS",
@@ -10754,6 +10794,10 @@
   {
     "Symbol": "QUIK",
     "Name": "QuickLogic Corporation"
+  },
+  {
+    "Symbol": "QUMS",
+    "Name": "Quantumsphere Acquisition Corporation"
   },
   {
     "Symbol": "QUMSR",
@@ -11126,6 +11170,10 @@
   {
     "Symbol": "RKLB",
     "Name": "Rocket Lab Corporation"
+  },
+  {
+    "Symbol": "RKTO",
+    "Name": "Rocket One Inc."
   },
   {
     "Symbol": "RLAY",
@@ -11836,6 +11884,10 @@
     "Name": "Skyward Specialty Insurance Group, Inc."
   },
   {
+    "Symbol": "SKYA",
+    "Name": "SkyAI, Inc."
+  },
+  {
     "Symbol": "SKYE",
     "Name": "Skye Bioscience, Inc."
   },
@@ -12382,10 +12434,6 @@
   {
     "Symbol": "STRZ",
     "Name": "Starz Entertainment Corp."
-  },
-  {
-    "Symbol": "STSS",
-    "Name": "Sharps Technology, Inc."
   },
   {
     "Symbol": "STTK",
@@ -12976,10 +13024,6 @@
     "Name": "TRG Latin America Acquisitions Corp."
   },
   {
-    "Symbol": "TRGSR",
-    "Name": "TRG Latin America Acquisitions Corp."
-  },
-  {
     "Symbol": "TRI",
     "Name": "Thomson Reuters Corporation"
   },
@@ -13141,6 +13185,10 @@
   },
   {
     "Symbol": "TVAI",
+    "Name": "Thayer Ventures Acquisition Corporation II"
+  },
+  {
+    "Symbol": "TVAIR",
     "Name": "Thayer Ventures Acquisition Corporation II"
   },
   {
@@ -13420,6 +13468,10 @@
     "Name": "UY Scuti Acquisition Corp."
   },
   {
+    "Symbol": "UYSCR",
+    "Name": "UY Scuti Acquisition Corp."
+  },
+  {
     "Symbol": "UZX",
     "Name": "Linkage Global Inc"
   },
@@ -13446,6 +13498,10 @@
   {
     "Symbol": "VBIO",
     "Name": "Valion Bio, Inc."
+  },
+  {
+    "Symbol": "VBNB",
+    "Name": "VanEck BNB ETF Common Shares of Beneficial Interest"
   },
   {
     "Symbol": "VBNK",
@@ -14312,10 +14368,6 @@
     "Name": "YHN Acquisition I Limited"
   },
   {
-    "Symbol": "YHNAR",
-    "Name": "YHN Acquisition I Limited"
-  },
-  {
     "Symbol": "YI",
     "Name": "111, Inc."
   },
@@ -14434,6 +14486,10 @@
   {
     "Symbol": "ZKIN",
     "Name": "ZK International Group Co., Ltd."
+  },
+  {
+    "Symbol": "ZKP",
+    "Name": "Lafayette Digital Acquisition Corp. I"
   },
   {
     "Symbol": "ZKPU",

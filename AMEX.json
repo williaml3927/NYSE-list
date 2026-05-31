@@ -292,10 +292,6 @@
     "Name": "ECF^A"
   },
   {
-    "Symbol": "EGG",
-    "Name": "Enigmatig Limited"
-  },
-  {
     "Symbol": "EIM",
     "Name": "Eaton Vance Municipal Bond Fund"
   },
@@ -418,6 +414,10 @@
   {
     "Symbol": "GLU",
     "Name": "The Gabelli Global Utility & Income Trust"
+  },
+  {
+    "Symbol": "GLU^B",
+    "Name": "GLU^B"
   },
   {
     "Symbol": "GLV",
@@ -748,6 +748,10 @@
     "Name": "Network-1 Technologies, Inc."
   },
   {
+    "Symbol": "NXB",
+    "Name": "NextBoat Inc."
+  },
+  {
     "Symbol": "OBE",
     "Name": "Obsidian Energy Ltd."
   },
@@ -774,10 +778,6 @@
   {
     "Symbol": "OSTX",
     "Name": "OS Therapies Incorporated"
-  },
-  {
-    "Symbol": "OTH",
-    "Name": "Off The Hook YS Inc."
   },
   {
     "Symbol": "OZ",
@@ -862,10 +862,6 @@
   {
     "Symbol": "PTHS",
     "Name": "Pelthos Therapeutics Inc."
-  },
-  {
-    "Symbol": "PTN",
-    "Name": "Palatin Technologies, Inc."
   },
   {
     "Symbol": "PW",

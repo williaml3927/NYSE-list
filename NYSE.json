@@ -3304,6 +3304,10 @@
     "Name": "Everest Group, Ltd."
   },
   {
+    "Symbol": "EGP",
+    "Name": "EastGroup Properties, Inc."
+  },
+  {
     "Symbol": "EGY",
     "Name": "VAALCO Energy, Inc."
   },
@@ -3754,10 +3758,6 @@
   {
     "Symbol": "FCRS",
     "Name": "FutureCrest Acquisition Corp."
-  },
-  {
-    "Symbol": "FCRX",
-    "Name": "Crescent Capital BDC, Inc."
   },
   {
     "Symbol": "FCT",
@@ -4292,6 +4292,14 @@
     "Name": "STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375"
   },
   {
+    "Symbol": "GJO",
+    "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
+  },
+  {
+    "Symbol": "GJP",
+    "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
+  },
+  {
     "Symbol": "GJR",
     "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
   },
@@ -4310,6 +4318,10 @@
   {
     "Symbol": "GL",
     "Name": "Globe Life Inc."
+  },
+  {
+    "Symbol": "GLED",
+    "Name": "GalaxyEdge Acquisition Corporation"
   },
   {
     "Symbol": "GLOB",
@@ -7376,10 +7388,6 @@
     "Name": "Western Asset Investment Grade Income Fund Inc."
   },
   {
-    "Symbol": "PAII",
-    "Name": "Pyrophyte Acquisition Corp. II"
-  },
-  {
     "Symbol": "PAM",
     "Name": "Pampa Energ\u00eda S.A."
   },
@@ -8458,6 +8466,10 @@
   {
     "Symbol": "RWTQ",
     "Name": "Redwood Trust, Inc."
+  },
+  {
+    "Symbol": "RWTS",
+    "Name": "RWTS"
   },
   {
     "Symbol": "RWT^A",
@@ -10230,10 +10242,6 @@
   {
     "Symbol": "VPV",
     "Name": "Invesco Pennsylvania Value Municipal Income Trust"
-  },
-  {
-    "Symbol": "VRE",
-    "Name": "Veris Residential, Inc."
   },
   {
     "Symbol": "VRT",
