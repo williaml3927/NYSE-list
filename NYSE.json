@@ -8,6 +8,10 @@
     "Name": "Alcoa Corporation"
   },
   {
+    "Symbol": "AADX",
+    "Name": "Applied Aerospace & Defense, Inc."
+  },
+  {
     "Symbol": "AAMI",
     "Name": "Acadian Asset Management Inc."
   },
@@ -968,10 +972,6 @@
     "Name": "AXIA Energia SA"
   },
   {
-    "Symbol": "AXIA^",
-    "Name": "AXIA^"
-  },
-  {
     "Symbol": "AXIA^C",
     "Name": "AXIA^C"
   },
@@ -1484,10 +1484,6 @@
     "Name": "Bausch + Lomb Corporation"
   },
   {
-    "Symbol": "BLD",
-    "Name": "TopBuild Corp."
-  },
-  {
     "Symbol": "BLDR",
     "Name": "Builders FirstSource, Inc."
   },
@@ -1546,6 +1542,10 @@
   {
     "Symbol": "BMN",
     "Name": "Blackrock 2037 Municipal Target Term Trust"
+  },
+  {
+    "Symbol": "BMNP",
+    "Name": "BitMine Immersion Technologies Inc"
   },
   {
     "Symbol": "BMNR",
@@ -2148,10 +2148,6 @@
     "Name": "Ciena Corporation"
   },
   {
-    "Symbol": "CIF",
-    "Name": "MFS Intermediate High Income Fund"
-  },
-  {
     "Symbol": "CIG",
     "Name": "Companhia Energ\u00e9tica de Minas Gerais - CEMIG"
   },
@@ -2322,10 +2318,6 @@
   {
     "Symbol": "CMTG",
     "Name": "Claros Mortgage Trust, Inc."
-  },
-  {
-    "Symbol": "CMU",
-    "Name": "MFS High Yield Municipal Trust"
   },
   {
     "Symbol": "CNA",
@@ -2616,6 +2608,14 @@
     "Name": "Claritev Corporation"
   },
   {
+    "Symbol": "CTGG",
+    "Name": "CTGG"
+  },
+  {
+    "Symbol": "CTHH",
+    "Name": "CTHH"
+  },
+  {
     "Symbol": "CTO",
     "Name": "CTO Realty Growth, Inc."
   },
@@ -2704,10 +2704,6 @@
     "Name": "Curtiss-Wright Corporation"
   },
   {
-    "Symbol": "CWAN",
-    "Name": "Clearwater Analytics Holdings, Inc."
-  },
-  {
     "Symbol": "CWEN",
     "Name": "Clearway Energy, Inc."
   },
@@ -2726,14 +2722,6 @@
   {
     "Symbol": "CX",
     "Name": "CEMEX, S.A.B. de C.V."
-  },
-  {
-    "Symbol": "CXE",
-    "Name": "MFS High Income Municipal Trust"
-  },
-  {
-    "Symbol": "CXH",
-    "Name": "MFS Investment Grade Municipal Trust"
   },
   {
     "Symbol": "CXM",
@@ -3004,6 +2992,10 @@
     "Name": "BNY Mellon Municipal Bond Infrastructure Fund, Inc."
   },
   {
+    "Symbol": "DMC",
+    "Name": "Del Monte Corporation"
+  },
+  {
     "Symbol": "DMO",
     "Name": "Western Asset Mortgage Opportunity Fund Inc."
   },
@@ -3046,6 +3038,10 @@
   {
     "Symbol": "DOW",
     "Name": "Dow Inc."
+  },
+  {
+    "Symbol": "DPC",
+    "Name": "DPC Holdings PLC"
   },
   {
     "Symbol": "DPG",
@@ -3304,6 +3300,10 @@
     "Name": "Everest Group, Ltd."
   },
   {
+    "Symbol": "EGO",
+    "Name": "Eldorado Gold Corporation"
+  },
+  {
     "Symbol": "EGP",
     "Name": "EastGroup Properties, Inc."
   },
@@ -3544,6 +3544,10 @@
     "Name": "Ero Copper Corp."
   },
   {
+    "Symbol": "EROC",
+    "Name": "ERock, Inc."
+  },
+  {
     "Symbol": "EROK",
     "Name": "EagleRock Land, LLC"
   },
@@ -3614,6 +3618,10 @@
   {
     "Symbol": "ETR",
     "Name": "Entergy Corporation"
+  },
+  {
+    "Symbol": "ETSS",
+    "Name": "Energy Transition Special Opportunities"
   },
   {
     "Symbol": "ETSY",
@@ -3744,6 +3752,10 @@
     "Name": "Franklin Covey Co."
   },
   {
+    "Symbol": "FCBM",
+    "Name": "First Carolina Financial Services, Inc."
+  },
+  {
     "Symbol": "FCF",
     "Name": "First Commonwealth Financial Corporation"
   },
@@ -3768,16 +3780,16 @@
     "Name": "Freeport-McMoRan Inc."
   },
   {
-    "Symbol": "FDP",
-    "Name": "Fresh Del Monte Produce Inc."
-  },
-  {
     "Symbol": "FDS",
     "Name": "FactSet Research Systems Inc."
   },
   {
     "Symbol": "FDX",
     "Name": "FedEx Corporation"
+  },
+  {
+    "Symbol": "FDXF",
+    "Name": "FedEx Freight Holding Company, Inc."
   },
   {
     "Symbol": "FE",
@@ -3864,8 +3876,32 @@
     "Name": "FinVolution Group"
   },
   {
+    "Symbol": "FIRY",
+    "Name": "Firy Inc."
+  },
+  {
     "Symbol": "FIS",
     "Name": "Fidelity National Information Services, Inc."
+  },
+  {
+    "Symbol": "FITB",
+    "Name": "Fifth Third Bancorp"
+  },
+  {
+    "Symbol": "FITB^A",
+    "Name": "FITB^A"
+  },
+  {
+    "Symbol": "FITB^I",
+    "Name": "FITB^I"
+  },
+  {
+    "Symbol": "FITB^K",
+    "Name": "FITB^K"
+  },
+  {
+    "Symbol": "FITB^M",
+    "Name": "FITB^M"
   },
   {
     "Symbol": "FIX",
@@ -4300,10 +4336,6 @@
     "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
   },
   {
-    "Symbol": "GJR",
-    "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
-  },
-  {
     "Symbol": "GJS",
     "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
   },
@@ -4318,6 +4350,10 @@
   {
     "Symbol": "GL",
     "Name": "Globe Life Inc."
+  },
+  {
+    "Symbol": "GLAS",
+    "Name": "Glass House Brands Inc."
   },
   {
     "Symbol": "GLED",
@@ -5284,10 +5320,6 @@
     "Name": "Nuveen Global High Income Fund"
   },
   {
-    "Symbol": "JHG",
-    "Name": "Janus Henderson Group plc"
-  },
-  {
     "Symbol": "JHI",
     "Name": "John Hancock Investors Trust"
   },
@@ -5656,10 +5688,6 @@
     "Name": "Klaviyo, Inc."
   },
   {
-    "Symbol": "KW",
-    "Name": "Kennedy-Wilson Holdings, Inc."
-  },
-  {
     "Symbol": "KWR",
     "Name": "Quaker Chemical Corporation"
   },
@@ -5710,10 +5738,6 @@
   {
     "Symbol": "LBRT",
     "Name": "Liberty Energy Inc."
-  },
-  {
-    "Symbol": "LC",
-    "Name": "LendingClub Corporation"
   },
   {
     "Symbol": "LCII",
@@ -6008,6 +6032,10 @@
     "Name": "MasterBrand, Inc."
   },
   {
+    "Symbol": "MBGL",
+    "Name": "MBGL"
+  },
+  {
     "Symbol": "MBI",
     "Name": "MBIA Inc."
   },
@@ -6038,10 +6066,6 @@
   {
     "Symbol": "MCO",
     "Name": "Moody's Corporation"
-  },
-  {
-    "Symbol": "MCR",
-    "Name": "MFS Charter Income Trust"
   },
   {
     "Symbol": "MCS",
@@ -6502,6 +6526,10 @@
   {
     "Symbol": "MTN",
     "Name": "Vail Resorts, Inc."
+  },
+  {
+    "Symbol": "MTNE",
+    "Name": "CH4 Natural Solutions Corporation"
   },
   {
     "Symbol": "MTR",
@@ -7324,6 +7352,10 @@
     "Name": "Oshkosh Corporation"
   },
   {
+    "Symbol": "OTAI",
+    "Name": "Starlink AI Acquisition Corporation"
+  },
+  {
     "Symbol": "OTF",
     "Name": "Blue Owl Technology Finance Corp."
   },
@@ -7386,6 +7418,10 @@
   {
     "Symbol": "PAI",
     "Name": "Western Asset Investment Grade Income Fund Inc."
+  },
+  {
+    "Symbol": "PAII",
+    "Name": "Pyrophyte Acquisition Corp. II"
   },
   {
     "Symbol": "PAM",
@@ -7572,6 +7608,10 @@
     "Name": "PIMCO Income Strategy Fund"
   },
   {
+    "Symbol": "PFLA",
+    "Name": "PennantPark Floating Rate Capital Ltd."
+  },
+  {
     "Symbol": "PFLT",
     "Name": "PennantPark Floating Rate Capital Ltd."
   },
@@ -7700,6 +7740,10 @@
     "Name": "Douglas Dynamics, Inc."
   },
   {
+    "Symbol": "PLUN",
+    "Name": "Plutonian Acquisition Corp II"
+  },
+  {
     "Symbol": "PM",
     "Name": "Philip Morris International Inc."
   },
@@ -7806,10 +7850,6 @@
   {
     "Symbol": "PR",
     "Name": "Permian Resources Corporation"
-  },
-  {
-    "Symbol": "PRA",
-    "Name": "ProAssurance Corporation"
   },
   {
     "Symbol": "PRG",
@@ -8026,6 +8066,10 @@
   {
     "Symbol": "QGEN",
     "Name": "Qiagen N.V."
+  },
+  {
+    "Symbol": "QLEP",
+    "Name": "Quantum Leap Acquisition Corp"
   },
   {
     "Symbol": "QRED",
@@ -8500,10 +8544,6 @@
     "Name": "Ryerson Holding Corporation"
   },
   {
-    "Symbol": "RZB",
-    "Name": "Reinsurance Group of America, Incorporated"
-  },
-  {
     "Symbol": "RZC",
     "Name": "7.125% Fixed-Rate Reset Subordinated Debentures due 2052"
   },
@@ -8704,10 +8744,6 @@
     "Name": "Solaris Energy Infrastructure, Inc."
   },
   {
-    "Symbol": "SEM",
-    "Name": "Select Medical Holdings Corporation"
-  },
-  {
     "Symbol": "SES",
     "Name": "SES AI Corporation"
   },
@@ -8800,8 +8836,8 @@
     "Name": "Sprott Inc."
   },
   {
-    "Symbol": "SILA",
-    "Name": "Sila Realty Trust, Inc."
+    "Symbol": "SIND",
+    "Name": "Sinda Ltd."
   },
   {
     "Symbol": "SITC",
@@ -8826,10 +8862,6 @@
   {
     "Symbol": "SKIL",
     "Name": "Skillsoft Corp."
-  },
-  {
-    "Symbol": "SKLZ",
-    "Name": "Skillz Inc."
   },
   {
     "Symbol": "SKM",
@@ -9140,6 +9172,10 @@
     "Name": "Sasol Limited"
   },
   {
+    "Symbol": "SSMR",
+    "Name": "Sunshine Silver Mining & Refining Company"
+  },
+  {
     "Symbol": "SST",
     "Name": "System1, Inc."
   },
@@ -9162,10 +9198,6 @@
   {
     "Symbol": "STE",
     "Name": "STERIS plc"
-  },
-  {
-    "Symbol": "STEL",
-    "Name": "Stellar Bancorp, Inc."
   },
   {
     "Symbol": "STEM",
@@ -9508,10 +9540,6 @@
     "Name": "Abrdn Healthcare Opportunities Fund"
   },
   {
-    "Symbol": "THR",
-    "Name": "Thermon Group Holdings, Inc."
-  },
-  {
     "Symbol": "THW",
     "Name": "Abrdn World Healthcare Fund"
   },
@@ -9612,8 +9640,8 @@
     "Name": "Tapestry, Inc."
   },
   {
-    "Symbol": "TPTA",
-    "Name": "Terra Property Trust, Inc. 6.00"
+    "Symbol": "TPTS",
+    "Name": "TPTS"
   },
   {
     "Symbol": "TPVG",
@@ -9642,6 +9670,10 @@
   {
     "Symbol": "TRGP",
     "Name": "Targa Resources Corp."
+  },
+  {
+    "Symbol": "TRLV",
+    "Name": "Trulieve Cannabis Corp."
   },
   {
     "Symbol": "TRN",
@@ -10252,10 +10284,6 @@
     "Name": "Virtus Investment Partners, Inc."
   },
   {
-    "Symbol": "VSCO",
-    "Name": "Victoria's Secret & Co."
-  },
-  {
     "Symbol": "VSH",
     "Name": "Vishay Intertechnology, Inc."
   },
@@ -10266,6 +10294,10 @@
   {
     "Symbol": "VSTS",
     "Name": "Vestis Corporation"
+  },
+  {
+    "Symbol": "VSXY",
+    "Name": "Victorias Secret & Co."
   },
   {
     "Symbol": "VTEX",
@@ -10454,6 +10486,10 @@
   {
     "Symbol": "WHG",
     "Name": "Westwood Holdings Group, Inc."
+  },
+  {
+    "Symbol": "WHK",
+    "Name": "WhiteHawk Minerals Corp"
   },
   {
     "Symbol": "WHR",

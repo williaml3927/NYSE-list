@@ -88,6 +88,10 @@
     "Name": "Azitra, Inc."
   },
   {
+    "Symbol": "AZUL",
+    "Name": "Azul S.A."
+  },
+  {
     "Symbol": "BATL",
     "Name": "Battalion Oil Corporation"
   },
@@ -292,6 +296,10 @@
     "Name": "ECF^A"
   },
   {
+    "Symbol": "EGG",
+    "Name": "Enigmatig Limited"
+  },
+  {
     "Symbol": "EIM",
     "Name": "Eaton Vance Municipal Bond Fund"
   },
@@ -414,6 +422,10 @@
   {
     "Symbol": "GLU",
     "Name": "The Gabelli Global Utility & Income Trust"
+  },
+  {
+    "Symbol": "GLU^A",
+    "Name": "GLU^A"
   },
   {
     "Symbol": "GLU^B",
@@ -572,10 +584,6 @@
     "Name": "Legato Merger Corp. IV"
   },
   {
-    "Symbol": "LEGT",
-    "Name": "Legato Merger Corp. III"
-  },
-  {
     "Symbol": "LGCY",
     "Name": "Legacy Education Inc."
   },
@@ -692,10 +700,6 @@
     "Name": "Neuberger Berman Income Funds - Neuberger Municipal Fund Inc."
   },
   {
-    "Symbol": "NCL",
-    "Name": "Northann Corp."
-  },
-  {
     "Symbol": "NEN",
     "Name": "New England Realty Associates Limited Partnership"
   },
@@ -746,6 +750,10 @@
   {
     "Symbol": "NTIP",
     "Name": "Network-1 Technologies, Inc."
+  },
+  {
+    "Symbol": "NVA",
+    "Name": "Nova Minerals Limited"
   },
   {
     "Symbol": "NXB",
@@ -846,10 +854,6 @@
   {
     "Symbol": "PMI",
     "Name": "Picard Medical, Inc."
-  },
-  {
-    "Symbol": "PMNT",
-    "Name": "Perfect Moment Ltd. Common Stock"
   },
   {
     "Symbol": "POAS",
@@ -990,10 +994,6 @@
   {
     "Symbol": "SOAR",
     "Name": "Volato Group, Inc."
-  },
-  {
-    "Symbol": "SRXH",
-    "Name": "SRx Health Solutions Inc."
   },
   {
     "Symbol": "STRW",
