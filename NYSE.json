@@ -3300,14 +3300,6 @@
     "Name": "Everest Group, Ltd."
   },
   {
-    "Symbol": "EGO",
-    "Name": "Eldorado Gold Corporation"
-  },
-  {
-    "Symbol": "EGP",
-    "Name": "EastGroup Properties, Inc."
-  },
-  {
     "Symbol": "EGY",
     "Name": "VAALCO Energy, Inc."
   },
@@ -8734,6 +8726,10 @@
   {
     "Symbol": "SEAL^B",
     "Name": "SEAL^B"
+  },
+  {
+    "Symbol": "SECZ",
+    "Name": "Securitize Corp."
   },
   {
     "Symbol": "SEG",

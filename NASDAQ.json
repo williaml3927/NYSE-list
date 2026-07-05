@@ -1008,6 +1008,10 @@
     "Name": "Aperture AC"
   },
   {
+    "Symbol": "APURR",
+    "Name": "Aperture AC"
+  },
+  {
     "Symbol": "APVO",
     "Name": "Aptevo Therapeutics Inc."
   },
@@ -1070,10 +1074,6 @@
   {
     "Symbol": "ARCL",
     "Name": "ARC Group Acquisition I Corp Class A Ordinary Shares"
-  },
-  {
-    "Symbol": "ARCLR",
-    "Name": "ARC Group Acquisition I Corp Right"
   },
   {
     "Symbol": "ARCT",
@@ -1302,10 +1302,6 @@
   {
     "Symbol": "ATLCZ",
     "Name": "Atlanticus Holdings Corporation 9.25% Senior Notes due 2029"
-  },
-  {
-    "Symbol": "ATLN",
-    "Name": "Atlantic International Corp."
   },
   {
     "Symbol": "ATLO",
@@ -1770,6 +1766,10 @@
   {
     "Symbol": "BHAV",
     "Name": "BHAV Acquisition Corp Class A Ordinary Shares"
+  },
+  {
+    "Symbol": "BHAVR",
+    "Name": "BHAV Acquisition Corp Rights"
   },
   {
     "Symbol": "BHF",
@@ -2404,10 +2404,6 @@
     "Name": "Cayson Acquisition Corp"
   },
   {
-    "Symbol": "CAPNR",
-    "Name": "Cayson Acquisition Corp"
-  },
-  {
     "Symbol": "CAPR",
     "Name": "Capricor Therapeutics, Inc."
   },
@@ -2692,10 +2688,6 @@
     "Name": "Cantor Equity Partners VI, Inc."
   },
   {
-    "Symbol": "CEPT",
-    "Name": "Cantor Equity Partners II, Inc."
-  },
-  {
     "Symbol": "CEPV",
     "Name": "Cantor Equity Partners V, Inc."
   },
@@ -2918,6 +2910,10 @@
   {
     "Symbol": "CING",
     "Name": "Cingulate Inc."
+  },
+  {
+    "Symbol": "CIRC",
+    "Name": "Circle8 Group, Inc."
   },
   {
     "Symbol": "CISO",
@@ -4020,10 +4016,6 @@
     "Name": "DT Cloud Star Acquisition Corporation"
   },
   {
-    "Symbol": "DTSQR",
-    "Name": "DT Cloud Star Acquisition Corporation"
-  },
-  {
     "Symbol": "DTSS",
     "Name": "Datasea Inc."
   },
@@ -4305,6 +4297,10 @@
   },
   {
     "Symbol": "EMIS",
+    "Name": "Emmis Acquisition Corp."
+  },
+  {
+    "Symbol": "EMISR",
     "Name": "Emmis Acquisition Corp."
   },
   {
@@ -4936,10 +4932,6 @@
     "Name": "Future Money Acquisition Corporation"
   },
   {
-    "Symbol": "FMACR",
-    "Name": "Future Money Acquisition Corporation"
-  },
-  {
     "Symbol": "FMAO",
     "Name": "Farmers & Merchants Bancorp, Inc."
   },
@@ -5262,6 +5254,10 @@
   {
     "Symbol": "FWRG",
     "Name": "First Watch Restaurant Group, Inc."
+  },
+  {
+    "Symbol": "FXHO",
+    "Name": "UTime Limited"
   },
   {
     "Symbol": "FXNC",
@@ -5794,6 +5790,10 @@
   {
     "Symbol": "GSRFR",
     "Name": "GSR IV Acquisition Corp."
+  },
+  {
+    "Symbol": "GSRV",
+    "Name": "GSR V Acquisition Corp."
   },
   {
     "Symbol": "GSUN",
@@ -6880,6 +6880,10 @@
     "Name": "iQIYI, Inc."
   },
   {
+    "Symbol": "IQMX",
+    "Name": "IQM Quantum Computers Oyj"
+  },
+  {
     "Symbol": "IQST",
     "Name": "iQSTEL Inc."
   },
@@ -7416,6 +7420,10 @@
     "Name": "K2 Capital Acquisition Corporation"
   },
   {
+    "Symbol": "KTWOR",
+    "Name": "K2 Capital Acquisition Corporation"
+  },
+  {
     "Symbol": "KURA",
     "Name": "Kura Oncology, Inc."
   },
@@ -7553,10 +7561,6 @@
   },
   {
     "Symbol": "LCCC",
-    "Name": "Lakeshore Acquisition III Corp."
-  },
-  {
-    "Symbol": "LCCCR",
     "Name": "Lakeshore Acquisition III Corp."
   },
   {
@@ -8441,6 +8445,10 @@
   },
   {
     "Symbol": "MKLY",
+    "Name": "McKinley Acquisition Corporation"
+  },
+  {
+    "Symbol": "MKLYR",
     "Name": "McKinley Acquisition Corporation"
   },
   {
@@ -9612,6 +9620,10 @@
     "Name": "OFS Capital Corporation"
   },
   {
+    "Symbol": "OFSSH",
+    "Name": "OFS Capital Corporation 4.95% Notes due 2028"
+  },
+  {
     "Symbol": "OFSSO",
     "Name": "OFS Capital Corporation"
   },
@@ -9814,10 +9826,6 @@
   {
     "Symbol": "ORBS",
     "Name": "Eightco Holdings Inc."
-  },
-  {
-    "Symbol": "ORGN",
-    "Name": "Origin Materials, Inc."
   },
   {
     "Symbol": "ORGO",
@@ -10906,10 +10914,6 @@
   {
     "Symbol": "QXL",
     "Name": "Quantum X Labs Inc."
-  },
-  {
-    "Symbol": "RAAQ",
-    "Name": "Real Asset Acquisition Corp."
   },
   {
     "Symbol": "RACC",
@@ -12360,10 +12364,6 @@
     "Name": "SPACSphere Acquisition Corp."
   },
   {
-    "Symbol": "SSACR",
-    "Name": "SPACSphere Acquisition Corp."
-  },
-  {
     "Symbol": "SSBI",
     "Name": "Summit State Bank"
   },
@@ -13100,6 +13100,10 @@
     "Name": "TRG Latin America Acquisitions Corp."
   },
   {
+    "Symbol": "TRGSR",
+    "Name": "TRG Latin America Acquisitions Corp."
+  },
+  {
     "Symbol": "TRI",
     "Name": "Thomson Reuters Corporation"
   },
@@ -13264,6 +13268,10 @@
     "Name": "Thayer Ventures Acquisition Corporation II"
   },
   {
+    "Symbol": "TVAIR",
+    "Name": "Thayer Ventures Acquisition Corporation II"
+  },
+  {
     "Symbol": "TVGN",
     "Name": "Tevogen Bio Holdings Inc."
   },
@@ -13297,10 +13305,6 @@
   },
   {
     "Symbol": "TWLV",
-    "Name": "Twelve Seas Investment Company III"
-  },
-  {
-    "Symbol": "TWLVR",
     "Name": "Twelve Seas Investment Company III"
   },
   {
@@ -14164,10 +14168,6 @@
     "Name": "Westin Acquisition Corp"
   },
   {
-    "Symbol": "WSTNR",
-    "Name": "Westin Acquisition Corp"
-  },
-  {
     "Symbol": "WTBA",
     "Name": "West Bancorporation, Inc."
   },
@@ -14188,8 +14188,8 @@
     "Name": "Wintergreen Acquisition Corp."
   },
   {
-    "Symbol": "WTO",
-    "Name": "UTime Limited"
+    "Symbol": "WTGUR",
+    "Name": "Wintergreen Acquisition Corp."
   },
   {
     "Symbol": "WTW",
