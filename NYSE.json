@@ -1008,6 +1008,10 @@
     "Name": "AutoZone, Inc."
   },
   {
+    "Symbol": "AZUL",
+    "Name": "Azul S.A."
+  },
+  {
     "Symbol": "AZZ",
     "Name": "AZZ Inc."
   },
@@ -3300,6 +3304,14 @@
     "Name": "Everest Group, Ltd."
   },
   {
+    "Symbol": "EGO",
+    "Name": "Eldorado Gold Corporation"
+  },
+  {
+    "Symbol": "EGP",
+    "Name": "EastGroup Properties, Inc."
+  },
+  {
     "Symbol": "EGY",
     "Name": "VAALCO Energy, Inc."
   },
@@ -4320,12 +4332,12 @@
     "Name": "STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375"
   },
   {
-    "Symbol": "GJO",
-    "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
-  },
-  {
     "Symbol": "GJP",
     "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
+  },
+  {
+    "Symbol": "GJR",
+    "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
   },
   {
     "Symbol": "GJS",
@@ -9150,6 +9162,10 @@
   {
     "Symbol": "SRJN",
     "Name": "Spire Inc. 6.375% Junior Subord"
+  },
+  {
+    "Symbol": "SRL",
+    "Name": "Scully Royalty Ltd."
   },
   {
     "Symbol": "SRV",

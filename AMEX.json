@@ -88,10 +88,6 @@
     "Name": "Azitra, Inc."
   },
   {
-    "Symbol": "AZUL",
-    "Name": "Azul S.A."
-  },
-  {
     "Symbol": "BATL",
     "Name": "Battalion Oil Corporation"
   },
@@ -998,6 +994,10 @@
   {
     "Symbol": "SOAR",
     "Name": "Volato Group, Inc."
+  },
+  {
+    "Symbol": "SRXH",
+    "Name": "SRx Health Solutions Inc."
   },
   {
     "Symbol": "STRW",
