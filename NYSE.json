@@ -2584,6 +2584,10 @@
     "Name": "Carlisle Companies Incorporated"
   },
   {
+    "Symbol": "CSQR",
+    "Name": "Csquare, Inc."
+  },
+  {
     "Symbol": "CSR",
     "Name": "Centerspace"
   },
@@ -2902,6 +2906,10 @@
   {
     "Symbol": "DG",
     "Name": "Dollar General Corporation"
+  },
+  {
+    "Symbol": "DGAC",
+    "Name": "Disciplined Growth Acquisition Corporation"
   },
   {
     "Symbol": "DGX",
@@ -3258,10 +3266,6 @@
   {
     "Symbol": "EEA",
     "Name": "The European Equity Fund, Inc."
-  },
-  {
-    "Symbol": "EEX",
-    "Name": "Emerald Holding, Inc."
   },
   {
     "Symbol": "EFC",
@@ -4332,6 +4336,10 @@
     "Name": "STRATS Trust for United States Cellular Corp. Securities, Series 2004-6 STRATS 6.375"
   },
   {
+    "Symbol": "GJO",
+    "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
+  },
+  {
     "Symbol": "GJP",
     "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
   },
@@ -4586,10 +4594,6 @@
   {
     "Symbol": "GTES",
     "Name": "Gates Industrial Corporation plc"
-  },
-  {
-    "Symbol": "GTLS",
-    "Name": "Chart Industries, Inc."
   },
   {
     "Symbol": "GTN",
@@ -8888,10 +8892,6 @@
     "Name": "Sky Harbour Group Corporation"
   },
   {
-    "Symbol": "SLAI",
-    "Name": "SOLAI Limited"
-  },
-  {
     "Symbol": "SLB",
     "Name": "SLB N.V."
   },
@@ -9206,6 +9206,10 @@
   {
     "Symbol": "STC",
     "Name": "Stewart Information Services Corporation"
+  },
+  {
+    "Symbol": "STDN",
+    "Name": "Standard Nuclear, Inc."
   },
   {
     "Symbol": "STE",
@@ -10630,10 +10634,6 @@
   {
     "Symbol": "WSO-B",
     "Name": "Watsco, Inc."
-  },
-  {
-    "Symbol": "WSR",
-    "Name": "Whitestone REIT"
   },
   {
     "Symbol": "WST",
