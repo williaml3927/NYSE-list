@@ -1872,10 +1872,6 @@
     "Name": "CACI International Inc"
   },
   {
-    "Symbol": "CAE",
-    "Name": "CAE Inc."
-  },
-  {
     "Symbol": "CAF",
     "Name": "Morgan Stanley China A Share Fund, Inc."
   },
@@ -3308,14 +3304,6 @@
     "Name": "Everest Group, Ltd."
   },
   {
-    "Symbol": "EGO",
-    "Name": "Eldorado Gold Corporation"
-  },
-  {
-    "Symbol": "EGP",
-    "Name": "EastGroup Properties, Inc."
-  },
-  {
     "Symbol": "EGY",
     "Name": "VAALCO Energy, Inc."
   },
@@ -4342,10 +4330,6 @@
   {
     "Symbol": "GJP",
     "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
-  },
-  {
-    "Symbol": "GJR",
-    "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
   },
   {
     "Symbol": "GJS",
@@ -5614,10 +5598,6 @@
   {
     "Symbol": "KOP",
     "Name": "Koppers Holdings Inc."
-  },
-  {
-    "Symbol": "KORE",
-    "Name": "KORE Group Holdings, Inc."
   },
   {
     "Symbol": "KOS",
@@ -7012,18 +6992,6 @@
     "Name": "National Rural Utilities Cooper"
   },
   {
-    "Symbol": "NSA",
-    "Name": "National Storage Affiliates Trust"
-  },
-  {
-    "Symbol": "NSA^A",
-    "Name": "NSA^A"
-  },
-  {
-    "Symbol": "NSA^B",
-    "Name": "NSA^B"
-  },
-  {
     "Symbol": "NSC",
     "Name": "Norfolk Southern Corporation"
   },
@@ -7188,10 +7156,6 @@
     "Name": "Oil-Dri Corporation of America"
   },
   {
-    "Symbol": "ODV",
-    "Name": "Osisko Development Corp."
-  },
-  {
     "Symbol": "OEC",
     "Name": "Orion S.A."
   },
@@ -7210,6 +7174,10 @@
   {
     "Symbol": "OGE",
     "Name": "OGE Energy Corp."
+  },
+  {
+    "Symbol": "OGG",
+    "Name": "Osisko Gold Group Inc."
   },
   {
     "Symbol": "OGN",
@@ -7986,6 +7954,10 @@
   {
     "Symbol": "PSA^S",
     "Name": "PSA^S"
+  },
+  {
+    "Symbol": "PSA^T",
+    "Name": "PSA^T"
   },
   {
     "Symbol": "PSBD",
@@ -9608,10 +9580,6 @@
     "Name": "Tencent Music Entertainment Group"
   },
   {
-    "Symbol": "TMHC",
-    "Name": "Taylor Morrison Home Corporation"
-  },
-  {
     "Symbol": "TMO",
     "Name": "Thermo Fisher Scientific Inc."
   },
@@ -10186,6 +10154,10 @@
   {
     "Symbol": "VICI",
     "Name": "VICI Properties Inc."
+  },
+  {
+    "Symbol": "VII",
+    "Name": "Viking Acquisition Corp. II"
   },
   {
     "Symbol": "VIK",
