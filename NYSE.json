@@ -684,10 +684,6 @@
     "Name": "Apollo Global Management, Inc."
   },
   {
-    "Symbol": "APO^A",
-    "Name": "APO^A"
-  },
-  {
     "Symbol": "APTV",
     "Name": "Aptiv PLC"
   },
@@ -926,10 +922,6 @@
   {
     "Symbol": "AVK",
     "Name": "Advent Convertible and Income Fund"
-  },
-  {
-    "Symbol": "AVNS",
-    "Name": "Avanos Medical, Inc."
   },
   {
     "Symbol": "AVNT",
@@ -3304,6 +3296,14 @@
     "Name": "Everest Group, Ltd."
   },
   {
+    "Symbol": "EGO",
+    "Name": "Eldorado Gold Corporation"
+  },
+  {
+    "Symbol": "EGP",
+    "Name": "EastGroup Properties, Inc."
+  },
+  {
     "Symbol": "EGY",
     "Name": "VAALCO Energy, Inc."
   },
@@ -4072,6 +4072,10 @@
     "Name": "Flotek Industries, Inc."
   },
   {
+    "Symbol": "FTRA",
+    "Name": "FutureCorp Space Acquisition 1"
+  },
+  {
     "Symbol": "FTS",
     "Name": "Fortis Inc."
   },
@@ -4332,6 +4336,10 @@
     "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
   },
   {
+    "Symbol": "GJR",
+    "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
+  },
+  {
     "Symbol": "GJS",
     "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
   },
@@ -4374,10 +4382,6 @@
   {
     "Symbol": "GLP",
     "Name": "Global Partners LP"
-  },
-  {
-    "Symbol": "GLP^B",
-    "Name": "GLP^B"
   },
   {
     "Symbol": "GLW",
@@ -5342,6 +5346,10 @@
   {
     "Symbol": "JMIA",
     "Name": "Jumia Technologies AG"
+  },
+  {
+    "Symbol": "JMKE",
+    "Name": "Jersey Mike's Subs Inc."
   },
   {
     "Symbol": "JMM",
@@ -6496,6 +6504,10 @@
     "Name": "MTB^K"
   },
   {
+    "Symbol": "MTB^L",
+    "Name": "MTB^L"
+  },
+  {
     "Symbol": "MTD",
     "Name": "Mettler-Toledo International Inc."
   },
@@ -6570,10 +6582,6 @@
   {
     "Symbol": "MUX",
     "Name": "McEwen Inc."
-  },
-  {
-    "Symbol": "MVO",
-    "Name": "MV Oil Trust"
   },
   {
     "Symbol": "MWA",
@@ -8040,10 +8048,6 @@
     "Name": "Qnity Electronics, Inc."
   },
   {
-    "Symbol": "QBTS",
-    "Name": "D-Wave Quantum Inc."
-  },
-  {
     "Symbol": "QGEN",
     "Name": "Qiagen N.V."
   },
@@ -8162,6 +8166,10 @@
   {
     "Symbol": "RDY",
     "Name": "Dr. Reddy's Laboratories Limited"
+  },
+  {
+    "Symbol": "REF",
+    "Name": "Reformation Inc."
   },
   {
     "Symbol": "RELX",
@@ -9656,6 +9664,10 @@
     "Name": "Targa Resources Corp."
   },
   {
+    "Symbol": "TRIN",
+    "Name": "Trinity Capital Inc."
+  },
+  {
     "Symbol": "TRLV",
     "Name": "Trulieve Cannabis Corp."
   },
@@ -9664,8 +9676,16 @@
     "Name": "Trinity Industries, Inc."
   },
   {
+    "Symbol": "TRNI",
+    "Name": "Trinity Capital Inc."
+  },
+  {
     "Symbol": "TRNO",
     "Name": "Terreno Realty Corporation"
+  },
+  {
+    "Symbol": "TRNZ",
+    "Name": "Trinity Capital Inc."
   },
   {
     "Symbol": "TROX",

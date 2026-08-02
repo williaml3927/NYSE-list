@@ -40,6 +40,10 @@
     "Name": "American Shared Hospital Services"
   },
   {
+    "Symbol": "AMZE",
+    "Name": "Amaze Holdings, Inc."
+  },
+  {
     "Symbol": "APT",
     "Name": "Alpha Pro Tech, Ltd."
   },
@@ -420,6 +424,10 @@
     "Name": "GLU^A"
   },
   {
+    "Symbol": "GLU^B",
+    "Name": "GLU^B"
+  },
+  {
     "Symbol": "GLV",
     "Name": "Clough Global Dividend and Income Fund"
   },
@@ -442,10 +450,6 @@
   {
     "Symbol": "GPUS^D",
     "Name": "GPUS^D"
-  },
-  {
-    "Symbol": "GRAF",
-    "Name": "Graf Global Corp."
   },
   {
     "Symbol": "GRF",
@@ -502,6 +506,10 @@
   {
     "Symbol": "IHT",
     "Name": "InnSuites Hospitality Trust"
+  },
+  {
+    "Symbol": "IMC",
+    "Name": "IMC Rare Earths Ltd"
   },
   {
     "Symbol": "IMO",
@@ -768,10 +776,6 @@
     "Name": "Ocean Power Technologies, Inc."
   },
   {
-    "Symbol": "ORLA",
-    "Name": "Orla Mining Ltd."
-  },
-  {
     "Symbol": "OSTX",
     "Name": "OS Therapies Incorporated"
   },
@@ -916,6 +920,10 @@
     "Name": "SACH^A"
   },
   {
+    "Symbol": "SBEV",
+    "Name": "Splash Beverage Group, Inc."
+  },
+  {
     "Symbol": "SBMT",
     "Name": "Silver Bow Mining Corp."
   },
@@ -1022,6 +1030,10 @@
   {
     "Symbol": "TMQ",
     "Name": "Trilogy Metals Inc."
+  },
+  {
+    "Symbol": "TONT",
+    "Name": "Graf Global"
   },
   {
     "Symbol": "TOON",
