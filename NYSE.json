@@ -160,6 +160,10 @@
     "Name": "ADC^A"
   },
   {
+    "Symbol": "ADIG",
+    "Name": "ADI Global Distribution Inc"
+  },
+  {
     "Symbol": "ADM",
     "Name": "Archer-Daniels-Midland Company"
   },
@@ -958,14 +962,6 @@
   {
     "Symbol": "AX",
     "Name": "Axos Financial, Inc."
-  },
-  {
-    "Symbol": "AXIA",
-    "Name": "AXIA Energia SA"
-  },
-  {
-    "Symbol": "AXIA^C",
-    "Name": "AXIA^C"
   },
   {
     "Symbol": "AXP",
@@ -7158,6 +7154,10 @@
   {
     "Symbol": "OC",
     "Name": "Owens Corning"
+  },
+  {
+    "Symbol": "OCAC",
+    "Name": "Ocean Capital Acquisition Corporation"
   },
   {
     "Symbol": "ODC",

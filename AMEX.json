@@ -420,10 +420,6 @@
     "Name": "The Gabelli Global Utility & Income Trust"
   },
   {
-    "Symbol": "GLU^A",
-    "Name": "GLU^A"
-  },
-  {
     "Symbol": "GLU^B",
     "Name": "GLU^B"
   },
@@ -844,6 +840,10 @@
     "Name": "Protalix BioTherapeutics, Inc."
   },
   {
+    "Symbol": "PMI",
+    "Name": "Picard Medical, Inc."
+  },
+  {
     "Symbol": "POAS",
     "Name": "Phaos Technology Holdings (Caym"
   },
@@ -1050,6 +1050,10 @@
   {
     "Symbol": "TOVX",
     "Name": "Theriva Biologics, Inc."
+  },
+  {
+    "Symbol": "TP",
+    "Name": "Ticketplus Ltd."
   },
   {
     "Symbol": "TPET",
