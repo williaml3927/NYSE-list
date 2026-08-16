@@ -208,10 +208,6 @@
     "Name": "Core Molding Technologies, Inc."
   },
   {
-    "Symbol": "CNL",
-    "Name": "Collective Mining Ltd."
-  },
-  {
     "Symbol": "COE",
     "Name": "51Talk Online Education Group"
   },
@@ -290,10 +286,6 @@
   {
     "Symbol": "ECF^A",
     "Name": "ECF^A"
-  },
-  {
-    "Symbol": "EGG",
-    "Name": "Enigmatig Limited"
   },
   {
     "Symbol": "EIM",
@@ -418,6 +410,10 @@
   {
     "Symbol": "GLU",
     "Name": "The Gabelli Global Utility & Income Trust"
+  },
+  {
+    "Symbol": "GLU^A",
+    "Name": "GLU^A"
   },
   {
     "Symbol": "GLU^B",
@@ -978,6 +974,10 @@
   {
     "Symbol": "SMJF",
     "Name": "SMJ International Holdings Inc."
+  },
+  {
+    "Symbol": "SNSC",
+    "Name": "SunScout Holding Ltd"
   },
   {
     "Symbol": "SOAR",

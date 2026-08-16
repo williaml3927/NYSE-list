@@ -1796,10 +1796,6 @@
     "Name": "Betterware de M\u00e9xico, S.A.P.I. de C.V."
   },
   {
-    "Symbol": "BWNB",
-    "Name": "Babcock & Wilcox Enterprises, I"
-  },
-  {
     "Symbol": "BWXT",
     "Name": "BWX Technologies, Inc."
   },
@@ -3764,10 +3760,6 @@
     "Name": "FutureCrest Acquisition Corp."
   },
   {
-    "Symbol": "FCT",
-    "Name": "First Trust Senior Floating Rate Income Fund II"
-  },
-  {
     "Symbol": "FCX",
     "Name": "Freeport-McMoRan Inc."
   },
@@ -3982,6 +3974,10 @@
   {
     "Symbol": "FOF",
     "Name": "Cohen & Steers Closed-End Opportunity Fund, Inc."
+  },
+  {
+    "Symbol": "FOIL",
+    "Name": "Londian Wason New Energy Tech Inc."
   },
   {
     "Symbol": "FOR",
@@ -4326,14 +4322,6 @@
   {
     "Symbol": "GJO",
     "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
-  },
-  {
-    "Symbol": "GJP",
-    "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
-  },
-  {
-    "Symbol": "GJR",
-    "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
   },
   {
     "Symbol": "GJS",
@@ -6082,14 +6070,6 @@
   {
     "Symbol": "MDU",
     "Name": "MDU Resources Group, Inc."
-  },
-  {
-    "Symbol": "MDV",
-    "Name": "Modiv Industrial, Inc."
-  },
-  {
-    "Symbol": "MDV^A",
-    "Name": "MDV^A"
   },
   {
     "Symbol": "MEC",
@@ -8466,6 +8446,10 @@
   {
     "Symbol": "RVI",
     "Name": "Robinhood Ventures Fund I"
+  },
+  {
+    "Symbol": "RVII",
+    "Name": "Robinhood Ventures Fund II"
   },
   {
     "Symbol": "RVLV",
