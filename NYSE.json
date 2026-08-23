@@ -908,10 +908,6 @@
     "Name": "Grupo Aval Acciones y Valores S.A."
   },
   {
-    "Symbol": "AVB",
-    "Name": "AvalonBay Communities, Inc."
-  },
-  {
     "Symbol": "AVBC",
     "Name": "Avidia Bancorp, Inc."
   },
@@ -1114,10 +1110,6 @@
   {
     "Symbol": "BBAR",
     "Name": "Banco BBVA Argentina S.A."
-  },
-  {
-    "Symbol": "BBBY",
-    "Name": "Bed Bath & Beyond, Inc."
   },
   {
     "Symbol": "BBD",
@@ -3112,6 +3104,10 @@
     "Name": "Duke Energy Corporation 5.625%"
   },
   {
+    "Symbol": "DUKU",
+    "Name": "Duke Energy Corporation"
+  },
+  {
     "Symbol": "DUK^A",
     "Name": "DUK^A"
   },
@@ -3286,14 +3282,6 @@
   {
     "Symbol": "EG",
     "Name": "Everest Group, Ltd."
-  },
-  {
-    "Symbol": "EGO",
-    "Name": "Eldorado Gold Corporation"
-  },
-  {
-    "Symbol": "EGP",
-    "Name": "EastGroup Properties, Inc."
   },
   {
     "Symbol": "EGY",
@@ -3514,10 +3502,6 @@
   {
     "Symbol": "EQNR",
     "Name": "Equinor ASA"
-  },
-  {
-    "Symbol": "EQR",
-    "Name": "Equity Residential"
   },
   {
     "Symbol": "EQS",
@@ -4324,12 +4308,16 @@
     "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
   },
   {
-    "Symbol": "GJS",
-    "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
+    "Symbol": "GJP",
+    "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
   },
   {
-    "Symbol": "GJT",
-    "Name": "Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD"
+    "Symbol": "GJR",
+    "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
+  },
+  {
+    "Symbol": "GJS",
+    "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
   },
   {
     "Symbol": "GKOS",
@@ -5934,6 +5922,10 @@
   {
     "Symbol": "LYG",
     "Name": "Lloyds Banking Group plc"
+  },
+  {
+    "Symbol": "LYNX",
+    "Name": "Lyntris Inc."
   },
   {
     "Symbol": "LYV",
@@ -8956,6 +8948,14 @@
     "Name": "Snowflake Inc."
   },
   {
+    "Symbol": "SNUS^H",
+    "Name": "SNUS^H"
+  },
+  {
+    "Symbol": "SNUS^I",
+    "Name": "SNUS^I"
+  },
+  {
     "Symbol": "SNX",
     "Name": "TD SYNNEX Corporation"
   },
@@ -10220,6 +10220,10 @@
     "Name": "Invesco Municipal Opportunity Trust"
   },
   {
+    "Symbol": "VMRK",
+    "Name": "Vivmark Residential"
+  },
+  {
     "Symbol": "VNO",
     "Name": "Vornado Realty Trust"
   },
@@ -10358,18 +10362,6 @@
   {
     "Symbol": "WBI",
     "Name": "WaterBridge Infrastructure LLC"
-  },
-  {
-    "Symbol": "WBS",
-    "Name": "Webster Financial Corporation"
-  },
-  {
-    "Symbol": "WBS^F",
-    "Name": "WBS^F"
-  },
-  {
-    "Symbol": "WBS^G",
-    "Name": "WBS^G"
   },
   {
     "Symbol": "WBX",

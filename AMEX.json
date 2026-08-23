@@ -288,6 +288,10 @@
     "Name": "ECF^A"
   },
   {
+    "Symbol": "EGG",
+    "Name": "Enigmatig Limited"
+  },
+  {
     "Symbol": "EIM",
     "Name": "Eaton Vance Municipal Bond Fund"
   },
@@ -434,14 +438,6 @@
   {
     "Symbol": "GORO",
     "Name": "Gold Resource Corporation"
-  },
-  {
-    "Symbol": "GPUS",
-    "Name": "Hyperscale Data, Inc."
-  },
-  {
-    "Symbol": "GPUS^D",
-    "Name": "GPUS^D"
   },
   {
     "Symbol": "GRF",
