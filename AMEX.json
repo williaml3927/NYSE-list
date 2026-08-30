@@ -112,10 +112,6 @@
     "Name": "Bimergen Energy Corporation"
   },
   {
-    "Symbol": "BGI",
-    "Name": "Birks Group Inc."
-  },
-  {
     "Symbol": "BHB",
     "Name": "Bar Harbor Bankshares"
   },
@@ -288,6 +284,10 @@
     "Name": "ECF^A"
   },
   {
+    "Symbol": "EDVA",
+    "Name": "Endovia Health Sciences, Inc."
+  },
+  {
     "Symbol": "EGG",
     "Name": "Enigmatig Limited"
   },
@@ -416,10 +416,6 @@
     "Name": "The Gabelli Global Utility & Income Trust"
   },
   {
-    "Symbol": "GLU^A",
-    "Name": "GLU^A"
-  },
-  {
     "Symbol": "GLU^B",
     "Name": "GLU^B"
   },
@@ -438,6 +434,14 @@
   {
     "Symbol": "GORO",
     "Name": "Gold Resource Corporation"
+  },
+  {
+    "Symbol": "GPUS",
+    "Name": "Hyperscale Data, Inc."
+  },
+  {
+    "Symbol": "GPUS^D",
+    "Name": "GPUS^D"
   },
   {
     "Symbol": "GRF",
@@ -910,10 +914,6 @@
   {
     "Symbol": "SACH^A",
     "Name": "SACH^A"
-  },
-  {
-    "Symbol": "SBEV",
-    "Name": "Splash Beverage Group, Inc."
   },
   {
     "Symbol": "SBMT",

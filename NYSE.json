@@ -8,6 +8,10 @@
     "Name": "Alcoa Corporation"
   },
   {
+    "Symbol": "AAC",
+    "Name": "Ares"
+  },
+  {
     "Symbol": "AADX",
     "Name": "Applied Aerospace & Defense, Inc."
   },
@@ -3284,6 +3288,10 @@
     "Name": "Everest Group, Ltd."
   },
   {
+    "Symbol": "EGP",
+    "Name": "EastGroup Properties, Inc."
+  },
+  {
     "Symbol": "EGY",
     "Name": "VAALCO Energy, Inc."
   },
@@ -4318,6 +4326,10 @@
   {
     "Symbol": "GJS",
     "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
+  },
+  {
+    "Symbol": "GJT",
+    "Name": "Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD"
   },
   {
     "Symbol": "GKOS",
@@ -5732,10 +5744,6 @@
     "Name": "Lear Corporation"
   },
   {
-    "Symbol": "LEG",
-    "Name": "Leggett & Platt, Incorporated"
-  },
-  {
     "Symbol": "LEN",
     "Name": "Lennar Corporation"
   },
@@ -6986,10 +6994,6 @@
   {
     "Symbol": "NTST",
     "Name": "NETSTREIT Corp."
-  },
-  {
-    "Symbol": "NTZ",
-    "Name": "Natuzzi S.p.A."
   },
   {
     "Symbol": "NU",
@@ -8316,10 +8320,6 @@
     "Name": "Regional Management Corp."
   },
   {
-    "Symbol": "RMAX",
-    "Name": "RE/MAX Holdings, Inc."
-  },
-  {
     "Symbol": "RMD",
     "Name": "ResMed Inc."
   },
@@ -8570,6 +8570,10 @@
   {
     "Symbol": "SAV",
     "Name": "Saratoga Investment Corp 7.50%"
+  },
+  {
+    "Symbol": "SAX",
+    "Name": "SAX"
   },
   {
     "Symbol": "SAY",
@@ -9798,10 +9802,6 @@
   {
     "Symbol": "TWN",
     "Name": "The Taiwan Fund, Inc."
-  },
-  {
-    "Symbol": "TWO",
-    "Name": "Two Harbors Investment Corp."
   },
   {
     "Symbol": "TWOD",
