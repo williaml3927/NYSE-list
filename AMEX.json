@@ -52,10 +52,6 @@
     "Name": "Apimeds Pharmaceuticals US, Inc."
   },
   {
-    "Symbol": "AREN",
-    "Name": "The Arena Group Holdings, Inc."
-  },
-  {
     "Symbol": "ARMP",
     "Name": "Armata Pharmaceuticals, Inc."
   },
@@ -416,6 +412,10 @@
     "Name": "The Gabelli Global Utility & Income Trust"
   },
   {
+    "Symbol": "GLU^A",
+    "Name": "GLU^A"
+  },
+  {
     "Symbol": "GLU^B",
     "Name": "GLU^B"
   },
@@ -774,6 +774,10 @@
   {
     "Symbol": "OZ",
     "Name": "Belpointe PREP, LLC"
+  },
+  {
+    "Symbol": "PAAI",
+    "Name": "Paradium AI, Inc."
   },
   {
     "Symbol": "PAPL",

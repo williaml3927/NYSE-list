@@ -1980,10 +1980,6 @@
     "Name": "Compa\u00f1\u00eda Cervecer\u00edas Unidas S.A."
   },
   {
-    "Symbol": "CCZ",
-    "Name": "Comcast Holdings Corp."
-  },
-  {
     "Symbol": "CDE",
     "Name": "Coeur Mining, Inc."
   },
@@ -3286,10 +3282,6 @@
   {
     "Symbol": "EG",
     "Name": "Everest Group, Ltd."
-  },
-  {
-    "Symbol": "EGP",
-    "Name": "EastGroup Properties, Inc."
   },
   {
     "Symbol": "EGY",
@@ -4784,10 +4776,6 @@
     "Name": "Hilton Worldwide Holdings Inc."
   },
   {
-    "Symbol": "HLX",
-    "Name": "Helix Energy Solutions Group, Inc."
-  },
-  {
     "Symbol": "HL^B",
     "Name": "HL^B"
   },
@@ -4818,6 +4806,10 @@
   {
     "Symbol": "HOMB",
     "Name": "Home BancShares, Inc."
+  },
+  {
+    "Symbol": "HOS",
+    "Name": "Hornbeck Offshore Services, Inc"
   },
   {
     "Symbol": "HOV",
@@ -7240,10 +7232,6 @@
     "Name": "Ooma, Inc."
   },
   {
-    "Symbol": "OPAD",
-    "Name": "Offerpad Solutions Inc."
-  },
-  {
     "Symbol": "OPFI",
     "Name": "OppFi Inc."
   },
@@ -8546,6 +8534,10 @@
   {
     "Symbol": "SAM",
     "Name": "The Boston Beer Company, Inc."
+  },
+  {
+    "Symbol": "SAMO",
+    "Name": "Samos Energy Acquisition Corporation"
   },
   {
     "Symbol": "SAN",
@@ -10694,6 +10686,10 @@
   {
     "Symbol": "XRN^B",
     "Name": "XRN^B"
+  },
+  {
+    "Symbol": "XTND",
+    "Name": "Xtend AI Robotics, Inc."
   },
   {
     "Symbol": "XXI",
