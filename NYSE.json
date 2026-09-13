@@ -1980,6 +1980,10 @@
     "Name": "Compa\u00f1\u00eda Cervecer\u00edas Unidas S.A."
   },
   {
+    "Symbol": "CCZ",
+    "Name": "Comcast Holdings Corp."
+  },
+  {
     "Symbol": "CDE",
     "Name": "Coeur Mining, Inc."
   },
@@ -3284,6 +3288,14 @@
     "Name": "Everest Group, Ltd."
   },
   {
+    "Symbol": "EGO",
+    "Name": "Eldorado Gold Corporation"
+  },
+  {
+    "Symbol": "EGP",
+    "Name": "EastGroup Properties, Inc."
+  },
+  {
     "Symbol": "EGY",
     "Name": "VAALCO Energy, Inc."
   },
@@ -4308,20 +4320,12 @@
     "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
   },
   {
-    "Symbol": "GJP",
-    "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
-  },
-  {
     "Symbol": "GJR",
     "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
   },
   {
     "Symbol": "GJS",
     "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
-  },
-  {
-    "Symbol": "GJT",
-    "Name": "Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD"
   },
   {
     "Symbol": "GKOS",

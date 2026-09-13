@@ -72,6 +72,10 @@
     "Name": "Austin Gold Corp."
   },
   {
+    "Symbol": "AUXX",
+    "Name": "Gold X2 Mining Inc."
+  },
+  {
     "Symbol": "AWX",
     "Name": "Avalon Holdings Corporation"
   },
@@ -464,6 +468,10 @@
     "Name": "Healthy Choice Wellness Corp."
   },
   {
+    "Symbol": "HLSQ",
+    "Name": "Tessera Defense and Homeland Security"
+  },
+  {
     "Symbol": "HSLV",
     "Name": "Highlander Silver Corp."
   },
@@ -818,10 +826,6 @@
   {
     "Symbol": "PED",
     "Name": "PEDEVCO Corp."
-  },
-  {
-    "Symbol": "PHGE",
-    "Name": "BiomX Inc."
   },
   {
     "Symbol": "PHXE^",
