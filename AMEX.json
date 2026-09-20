@@ -148,6 +148,10 @@
     "Name": "Buda Juice, Inc."
   },
   {
+    "Symbol": "BURU",
+    "Name": "Nuburu, Inc."
+  },
+  {
     "Symbol": "CANF",
     "Name": "Can-Fite BioPharma Ltd."
   },
@@ -416,10 +420,6 @@
     "Name": "The Gabelli Global Utility & Income Trust"
   },
   {
-    "Symbol": "GLU^A",
-    "Name": "GLU^A"
-  },
-  {
     "Symbol": "GLU^B",
     "Name": "GLU^B"
   },
@@ -464,12 +464,12 @@
     "Name": "Gran Tierra Energy Inc."
   },
   {
-    "Symbol": "HCWC",
-    "Name": "Healthy Choice Wellness Corp."
-  },
-  {
     "Symbol": "HLSQ",
     "Name": "Tessera Defense and Homeland Security"
+  },
+  {
+    "Symbol": "HOST",
+    "Name": "Host Digital Infrastructure LLC"
   },
   {
     "Symbol": "HSLV",
@@ -1062,10 +1062,6 @@
   {
     "Symbol": "TPET",
     "Name": "Trio Petroleum Corp."
-  },
-  {
-    "Symbol": "TRT",
-    "Name": "Trio-Tech International"
   },
   {
     "Symbol": "TRX",

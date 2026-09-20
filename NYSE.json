@@ -792,6 +792,10 @@
     "Name": "ASBA"
   },
   {
+    "Symbol": "ASBH",
+    "Name": "American Savings Bank, National Association"
+  },
+  {
     "Symbol": "ASB^E",
     "Name": "ASB^E"
   },
@@ -4320,12 +4324,20 @@
     "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
   },
   {
+    "Symbol": "GJP",
+    "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
+  },
+  {
     "Symbol": "GJR",
     "Name": "Strats Trust For Procter &amp; Gambel Security CTF 2006-1"
   },
   {
     "Symbol": "GJS",
     "Name": "STRATS Trust for Goldman Sachs Group Securities, Series 2006-2"
+  },
+  {
+    "Symbol": "GJT",
+    "Name": "Strats(SM) Trust For Allstate Corp Securities, Series 2006-3 06-3 ASSET BKD"
   },
   {
     "Symbol": "GKOS",
@@ -5482,6 +5494,10 @@
   {
     "Symbol": "KGS",
     "Name": "Kodiak Gas Services, Inc."
+  },
+  {
+    "Symbol": "KHC",
+    "Name": "The Kraft Heinz Company"
   },
   {
     "Symbol": "KIM",
@@ -8558,10 +8574,6 @@
   {
     "Symbol": "SARO",
     "Name": "StandardAero, Inc."
-  },
-  {
-    "Symbol": "SAT",
-    "Name": "Saratoga Investment Corp 6.00%"
   },
   {
     "Symbol": "SAV",
