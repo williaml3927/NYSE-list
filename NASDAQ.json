@@ -16,10 +16,6 @@
     "Name": "Apogee Acquisition Corp Class A Ordinary Shares"
   },
   {
-    "Symbol": "AACPR",
-    "Name": "Apogee Acquisition Corp Rights"
-  },
-  {
     "Symbol": "AAL",
     "Name": "American Airlines Group Inc."
   },
@@ -370,6 +366,10 @@
   {
     "Symbol": "AESP",
     "Name": "Aeon Acquisition I Corp. Class A Ordinary Shares"
+  },
+  {
+    "Symbol": "AESPR",
+    "Name": "Aeon Acquisition I Corp."
   },
   {
     "Symbol": "AEVA",
@@ -920,10 +920,6 @@
     "Name": "StoneBridge Acquisition II Corporation"
   },
   {
-    "Symbol": "APACR",
-    "Name": "StoneBridge Acquisition II Corporation"
-  },
-  {
     "Symbol": "APC",
     "Name": "ARKO Petroleum Corp."
   },
@@ -946,10 +942,6 @@
   {
     "Symbol": "APMC",
     "Name": "AmperCap Acquisition Company Ordinary Shares"
-  },
-  {
-    "Symbol": "APMCR",
-    "Name": "AmperCap Acquisition Company"
   },
   {
     "Symbol": "APMD",
@@ -1050,6 +1042,10 @@
   {
     "Symbol": "ARCL",
     "Name": "ARC Group Acquisition I Corp Class A Ordinary Shares"
+  },
+  {
+    "Symbol": "ARCLR",
+    "Name": "ARC Group Acquisition I Corp Right"
   },
   {
     "Symbol": "ARCT",
@@ -1168,10 +1164,6 @@
     "Name": "A SPAC III Acquisition Corp."
   },
   {
-    "Symbol": "ASPCR",
-    "Name": "A SPAC III Acquisition Corp."
-  },
-  {
     "Symbol": "ASPI",
     "Name": "ASP Isotopes Inc."
   },
@@ -1282,10 +1274,6 @@
   {
     "Symbol": "ATLQ",
     "Name": "JAB Acquisition Corp I Class A Ordinary Shares"
-  },
-  {
-    "Symbol": "ATLQR",
-    "Name": "JAB Acquisition Corp I Rights"
   },
   {
     "Symbol": "ATLX",
@@ -1628,10 +1616,6 @@
     "Name": "BriaCell Therapeutics Corp."
   },
   {
-    "Symbol": "BCTXZ",
-    "Name": "BriaCell Therapeutics Corp."
-  },
-  {
     "Symbol": "BCYC",
     "Name": "Bicycle Therapeutics plc"
   },
@@ -1744,6 +1728,10 @@
     "Name": "BHAV Acquisition Corp Class A Ordinary Shares"
   },
   {
+    "Symbol": "BHAVR",
+    "Name": "BHAV Acquisition Corp Rights"
+  },
+  {
     "Symbol": "BHF",
     "Name": "Brighthouse Financial, Inc."
   },
@@ -1786,10 +1774,6 @@
   {
     "Symbol": "BIDU",
     "Name": "Baidu, Inc."
-  },
-  {
-    "Symbol": "BIDWR",
-    "Name": "Tribeca Strategic Acquisition Corp."
   },
   {
     "Symbol": "BIIB",
@@ -1972,10 +1956,6 @@
     "Name": "CEA Industries Inc."
   },
   {
-    "Symbol": "BNCWZ",
-    "Name": "CEA Industries Inc."
-  },
-  {
     "Symbol": "BNGO",
     "Name": "Bionano Genomics, Inc."
   },
@@ -2126,10 +2106,6 @@
   {
     "Symbol": "BRNX",
     "Name": "BrenX Ltd."
-  },
-  {
-    "Symbol": "BRR",
-    "Name": "ProCap Financial, Inc."
   },
   {
     "Symbol": "BRTM",
@@ -2453,10 +2429,6 @@
   },
   {
     "Symbol": "CATL",
-    "Name": "Catalyst Acquisition Corp."
-  },
-  {
-    "Symbol": "CATLR",
     "Name": "Catalyst Acquisition Corp."
   },
   {
@@ -3912,10 +3884,6 @@
     "Name": "Dominari Holdings Inc."
   },
   {
-    "Symbol": "DOMO",
-    "Name": "Domo, Inc."
-  },
-  {
     "Symbol": "DOO",
     "Name": "BRP Inc."
   },
@@ -4029,10 +3997,6 @@
   },
   {
     "Symbol": "DTSQ",
-    "Name": "DT Cloud Star Acquisition Corporation"
-  },
-  {
-    "Symbol": "DTSQR",
     "Name": "DT Cloud Star Acquisition Corporation"
   },
   {
@@ -4460,6 +4424,10 @@
     "Name": "Establishment Labs Holdings Inc."
   },
   {
+    "Symbol": "ESYN",
+    "Name": "EnerSyn Global Inc."
+  },
+  {
     "Symbol": "ETON",
     "Name": "Eton Pharmaceuticals, Inc."
   },
@@ -4485,10 +4453,6 @@
   },
   {
     "Symbol": "EURK",
-    "Name": "Eureka Acquisition Corp"
-  },
-  {
-    "Symbol": "EURKR",
     "Name": "Eureka Acquisition Corp"
   },
   {
@@ -4530,10 +4494,6 @@
   {
     "Symbol": "EWAV",
     "Name": "East West Ave Acquisition Corp. Common Stock"
-  },
-  {
-    "Symbol": "EWAVR",
-    "Name": "East West Ave Acquisition Corp. Rights"
   },
   {
     "Symbol": "EWBC",
@@ -4876,6 +4836,14 @@
     "Name": "National Beverage Corp."
   },
   {
+    "Symbol": "FJDI",
+    "Name": "ARC Group Securities Acquisition I Class A Ordinary Shares"
+  },
+  {
+    "Symbol": "FJDIR",
+    "Name": "ARC Group Securities Acquisition I Rights"
+  },
+  {
     "Symbol": "FKWL",
     "Name": "Franklin Wireless Corp."
   },
@@ -4937,6 +4905,10 @@
   },
   {
     "Symbol": "FMAC",
+    "Name": "Future Money Acquisition Corporation"
+  },
+  {
+    "Symbol": "FMACR",
     "Name": "Future Money Acquisition Corporation"
   },
   {
@@ -5520,10 +5492,6 @@
     "Name": "GigCapital8 Corp."
   },
   {
-    "Symbol": "GIWWR",
-    "Name": "GigCapital8 Corp."
-  },
-  {
     "Symbol": "GIX",
     "Name": "GigCapital9 Corp."
   },
@@ -5804,10 +5772,6 @@
     "Name": "GSR IV Acquisition Corp."
   },
   {
-    "Symbol": "GSRFR",
-    "Name": "GSR IV Acquisition Corp."
-  },
-  {
     "Symbol": "GSRV",
     "Name": "GSR V Acquisition Corp."
   },
@@ -5833,10 +5797,6 @@
   },
   {
     "Symbol": "GTERA",
-    "Name": "Globa Terra Acquisition Corporation"
-  },
-  {
-    "Symbol": "GTERR",
     "Name": "Globa Terra Acquisition Corporation"
   },
   {
@@ -5972,10 +5932,6 @@
     "Name": "Hall Chadwick Acquisition Corp."
   },
   {
-    "Symbol": "HCACR",
-    "Name": "Hall Chadwick Acquisition Corp."
-  },
-  {
     "Symbol": "HCAI",
     "Name": "Huachen AI Parking Management Technology Holding Co., Ltd"
   },
@@ -5986,6 +5942,10 @@
   {
     "Symbol": "HCIC",
     "Name": "Hennessy Capital Investment Corp. VIII Class A Ordinary Shares"
+  },
+  {
+    "Symbol": "HCICR",
+    "Name": "Hennessy Capital Investment Corp. VIII Share Rights"
   },
   {
     "Symbol": "HCKT",
@@ -6296,6 +6256,10 @@
     "Name": "Hub Group, Inc."
   },
   {
+    "Symbol": "HUCK",
+    "Name": "Huckleberry.ai, Inc."
+  },
+  {
     "Symbol": "HUDI",
     "Name": "Huadi International Group Co., Ltd."
   },
@@ -6328,14 +6292,6 @@
     "Name": "Hut 8 Corp."
   },
   {
-    "Symbol": "HVII",
-    "Name": "Hennessy Capital Investment Corp. VII"
-  },
-  {
-    "Symbol": "HVIIR",
-    "Name": "Hennessy Capital Investment Corp. VII"
-  },
-  {
     "Symbol": "HVMC",
     "Name": "Highview Merger Corp."
   },
@@ -6350,10 +6306,6 @@
   {
     "Symbol": "HWCPZ",
     "Name": "Hancock Whitney Corporation - 6"
-  },
-  {
-    "Symbol": "HWH",
-    "Name": "HWH International Inc."
   },
   {
     "Symbol": "HWKN",
@@ -6508,10 +6460,6 @@
     "Name": "Infinite Eagle Acquisition Corp."
   },
   {
-    "Symbol": "IEAGR",
-    "Name": "Infinite Eagle Acquisition Corp."
-  },
-  {
     "Symbol": "IEP",
     "Name": "Icahn Enterprises L.P."
   },
@@ -6529,10 +6477,6 @@
   },
   {
     "Symbol": "IGAC",
-    "Name": "Invest Green Acquisition Corporation"
-  },
-  {
-    "Symbol": "IGACR",
     "Name": "Invest Green Acquisition Corporation"
   },
   {
@@ -6932,10 +6876,6 @@
     "Name": "Iron Horse Acquisitions Corp. II"
   },
   {
-    "Symbol": "IRHOR",
-    "Name": "Iron Horse Acquisitions Corp. II"
-  },
-  {
     "Symbol": "IRIX",
     "Name": "IRIDEX Corporation"
   },
@@ -7288,6 +7228,10 @@
     "Name": "K&F Growth Acquisition Corp. II"
   },
   {
+    "Symbol": "KFIIR",
+    "Name": "K&F Growth Acquisition Corp. II"
+  },
+  {
     "Symbol": "KG",
     "Name": "Kestrel Group Ltd"
   },
@@ -7333,10 +7277,6 @@
   },
   {
     "Symbol": "KLXE",
-    "Name": "KLX Energy Services Holdings, Inc."
-  },
-  {
-    "Symbol": "KLXER",
     "Name": "KLX Energy Services Holdings, Inc."
   },
   {
@@ -7513,10 +7453,6 @@
   },
   {
     "Symbol": "LAFA",
-    "Name": "LaFayette Acquisition Corp."
-  },
-  {
-    "Symbol": "LAFAR",
     "Name": "LaFayette Acquisition Corp."
   },
   {
@@ -9112,10 +9048,6 @@
     "Name": "Neurogene Inc."
   },
   {
-    "Symbol": "NHIC",
-    "Name": "NewHold Investment Corp III"
-  },
-  {
     "Symbol": "NHIV",
     "Name": "NewHold Investment Corp IV"
   },
@@ -9241,10 +9173,6 @@
   },
   {
     "Symbol": "NOEM",
-    "Name": "CO2 Energy Transition Corp."
-  },
-  {
-    "Symbol": "NOEMR",
     "Name": "CO2 Energy Transition Corp."
   },
   {
@@ -9460,6 +9388,10 @@
     "Name": "Northwest Bancshares, Inc."
   },
   {
+    "Symbol": "NWCL",
+    "Name": "newcleo plc"
+  },
+  {
     "Symbol": "NWE",
     "Name": "NorthWestern Energy Group, Inc."
   },
@@ -9608,10 +9540,6 @@
     "Name": "OceanLight Acquisition Corporation Ordinary Shares"
   },
   {
-    "Symbol": "OCLTR",
-    "Name": "OceanLight Acquisition Corporation Rights"
-  },
-  {
     "Symbol": "OCS",
     "Name": "Oculis Holding AG"
   },
@@ -9668,23 +9596,11 @@
     "Name": "OFS Capital Corporation 4.95% Notes due 2028"
   },
   {
-    "Symbol": "OFSSO",
-    "Name": "OFS Capital Corporation"
-  },
-  {
-    "Symbol": "OGGWZ",
-    "Name": "Osisko Gold Group Inc."
-  },
-  {
     "Symbol": "OGI",
     "Name": "Organigram Global Inc."
   },
   {
     "Symbol": "OHAC",
-    "Name": "Oceanhawk Acquisition Corp"
-  },
-  {
-    "Symbol": "OHACR",
     "Name": "Oceanhawk Acquisition Corp"
   },
   {
@@ -9802,6 +9718,10 @@
   {
     "Symbol": "ONEG",
     "Name": "OneConstruction Group Limited"
+  },
+  {
+    "Symbol": "ONEN",
+    "Name": "ONE Nuclear Energy Inc."
   },
   {
     "Symbol": "ONEW",
@@ -10252,10 +10172,6 @@
     "Name": "Peace Acquisition Corp"
   },
   {
-    "Symbol": "PECER",
-    "Name": "Peace Acquisition Corp"
-  },
-  {
     "Symbol": "PECO",
     "Name": "Phillips Edison & Company, Inc."
   },
@@ -10325,6 +10241,10 @@
   },
   {
     "Symbol": "PGAC",
+    "Name": "Pantages Capital Acquisition Corporation"
+  },
+  {
+    "Symbol": "PGACR",
     "Name": "Pantages Capital Acquisition Corporation"
   },
   {
@@ -10557,10 +10477,6 @@
   },
   {
     "Symbol": "PONO",
-    "Name": "Pono Capital Four, Inc."
-  },
-  {
-    "Symbol": "PONOR",
     "Name": "Pono Capital Four, Inc."
   },
   {
@@ -10952,10 +10868,6 @@
     "Name": "Quartzsea Acquisition Corporation"
   },
   {
-    "Symbol": "QSEAR",
-    "Name": "Quartzsea Acquisition Corporation"
-  },
-  {
     "Symbol": "QSI",
     "Name": "Quantum-Si incorporated"
   },
@@ -11249,10 +11161,6 @@
   },
   {
     "Symbol": "RFAM",
-    "Name": "RF Acquisition Corp III"
-  },
-  {
-    "Symbol": "RFAMR",
     "Name": "RF Acquisition Corp III"
   },
   {
@@ -12468,15 +12376,15 @@
     "Name": "SPACSphere Acquisition Corp."
   },
   {
-    "Symbol": "SSACR",
-    "Name": "SPACSphere Acquisition Corp."
-  },
-  {
     "Symbol": "SSBI",
     "Name": "Summit State Bank"
   },
   {
     "Symbol": "SSEA",
+    "Name": "Starry Sea Acquisition Corp"
+  },
+  {
+    "Symbol": "SSEAR",
     "Name": "Starry Sea Acquisition Corp"
   },
   {
@@ -12644,10 +12552,6 @@
     "Name": "SUMA Acquisition Corporation"
   },
   {
-    "Symbol": "SUMAR",
-    "Name": "SUMA Acquisition Corporation"
-  },
-  {
     "Symbol": "SUNE",
     "Name": "SUNation Energy Inc."
   },
@@ -12682,6 +12586,10 @@
   {
     "Symbol": "SVCO",
     "Name": "Silvaco Group, Inc."
+  },
+  {
+    "Symbol": "SVIA",
+    "Name": "Silvia, Inc."
   },
   {
     "Symbol": "SVIV",
@@ -12836,10 +12744,6 @@
     "Name": "Thornburg Income Builder Opportunities Trust"
   },
   {
-    "Symbol": "TBPH",
-    "Name": "Theravance Biopharma, Inc."
-  },
-  {
     "Symbol": "TC",
     "Name": "Token Cat Limited"
   },
@@ -12905,10 +12809,6 @@
   },
   {
     "Symbol": "TDWD",
-    "Name": "Tailwind 2.0 Acquisition Corp."
-  },
-  {
-    "Symbol": "TDWDR",
     "Name": "Tailwind 2.0 Acquisition Corp."
   },
   {
@@ -13216,10 +13116,6 @@
     "Name": "TRG Latin America Acquisitions Corp."
   },
   {
-    "Symbol": "TRGSR",
-    "Name": "TRG Latin America Acquisitions Corp."
-  },
-  {
     "Symbol": "TRI",
     "Name": "Thomson Reuters Corporation"
   },
@@ -13413,10 +13309,6 @@
   },
   {
     "Symbol": "TWLV",
-    "Name": "Twelve Seas Investment Company III"
-  },
-  {
-    "Symbol": "TWLVR",
     "Name": "Twelve Seas Investment Company III"
   },
   {
@@ -13645,10 +13537,6 @@
   },
   {
     "Symbol": "UYSC",
-    "Name": "UY Scuti Acquisition Corp."
-  },
-  {
-    "Symbol": "UYSCR",
     "Name": "UY Scuti Acquisition Corp."
   },
   {
@@ -14141,10 +14029,6 @@
   },
   {
     "Symbol": "WHLRD",
-    "Name": "Wheeler Real Estate Investment Trust, Inc."
-  },
-  {
-    "Symbol": "WHLRL",
     "Name": "Wheeler Real Estate Investment Trust, Inc."
   },
   {
