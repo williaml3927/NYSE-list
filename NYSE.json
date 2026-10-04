@@ -2780,10 +2780,6 @@
     "Name": "DoubleLine Opportunistic Credit Fund"
   },
   {
-    "Symbol": "DBRG",
-    "Name": "DigitalBridge Group, Inc."
-  },
-  {
     "Symbol": "DBRG^H",
     "Name": "DBRG^H"
   },
@@ -3410,6 +3406,10 @@
   {
     "Symbol": "ENIC",
     "Name": "Enel Chile S.A."
+  },
+  {
+    "Symbol": "ENJ",
+    "Name": "Entergy Utility Group, Inc. 1ST MTG 5% 52"
   },
   {
     "Symbol": "ENO",
@@ -4148,10 +4148,6 @@
     "Name": "Glacier Bancorp, Inc."
   },
   {
-    "Symbol": "GBTG",
-    "Name": "Global Business Travel Group, Inc."
-  },
-  {
     "Symbol": "GBX",
     "Name": "The Greenbrier Companies, Inc."
   },
@@ -4218,10 +4214,6 @@
   {
     "Symbol": "GEO",
     "Name": "The GEO Group, Inc."
-  },
-  {
-    "Symbol": "GETY",
-    "Name": "Getty Images Holdings, Inc."
   },
   {
     "Symbol": "GEV",
@@ -4314,10 +4306,6 @@
   {
     "Symbol": "GJO",
     "Name": "Strats Trust Wal Mart Stores Inc. STRT CTF 05-4"
-  },
-  {
-    "Symbol": "GJP",
-    "Name": "STRATS Trust For Dominion Resources Inc. Securities, Series 2005-6"
   },
   {
     "Symbol": "GJR",
@@ -5212,6 +5200,10 @@
     "Name": "Illinois Tool Works Inc."
   },
   {
+    "Symbol": "IVAI",
+    "Name": "Ives Ultra AI Opportunities Inc."
+  },
+  {
     "Symbol": "IVR",
     "Name": "Invesco Mortgage Capital Inc."
   },
@@ -5958,10 +5950,6 @@
   {
     "Symbol": "MAA",
     "Name": "Mid-America Apartment Communities, Inc."
-  },
-  {
-    "Symbol": "MAA^I",
-    "Name": "MAA^I"
   },
   {
     "Symbol": "MAC",
@@ -6810,10 +6798,6 @@
   {
     "Symbol": "NLY^G",
     "Name": "NLY^G"
-  },
-  {
-    "Symbol": "NLY^I",
-    "Name": "NLY^I"
   },
   {
     "Symbol": "NLY^J",
@@ -7744,6 +7728,10 @@
     "Name": "PMT^C"
   },
   {
+    "Symbol": "PNAQ",
+    "Name": "Pinnacle Acquisition Corporation"
+  },
+  {
     "Symbol": "PNC",
     "Name": "The PNC Financial Services Group, Inc."
   },
@@ -8606,10 +8594,6 @@
   {
     "Symbol": "SBSW",
     "Name": "Sibanye Stillwater Limited"
-  },
-  {
-    "Symbol": "SBXD",
-    "Name": "SilverBox Corp IV"
   },
   {
     "Symbol": "SBXE",
@@ -9804,18 +9788,6 @@
     "Name": "Two Harbors Investment Corp."
   },
   {
-    "Symbol": "TWO^A",
-    "Name": "TWO^A"
-  },
-  {
-    "Symbol": "TWO^B",
-    "Name": "TWO^B"
-  },
-  {
-    "Symbol": "TWO^C",
-    "Name": "TWO^C"
-  },
-  {
     "Symbol": "TX",
     "Name": "Ternium S.A."
   },
@@ -10080,10 +10052,6 @@
     "Name": "Marriott Vacations Worldwide Corporation"
   },
   {
-    "Symbol": "VACI",
-    "Name": "Viking Acquisition Corp. I"
-  },
-  {
     "Symbol": "VAL",
     "Name": "Valaris Limited"
   },
@@ -10326,6 +10294,10 @@
   {
     "Symbol": "VVX",
     "Name": "V2X, Inc."
+  },
+  {
+    "Symbol": "VYLR",
+    "Name": "Vylor, Inc."
   },
   {
     "Symbol": "VYX",
